@@ -1,0 +1,1 @@
+<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>tw/js/easyautocomplete/easy-autocomplete.css?v=2"> 
