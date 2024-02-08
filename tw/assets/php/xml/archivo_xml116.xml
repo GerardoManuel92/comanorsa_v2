@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="7083" Fecha="2022-06-10T11:01:46" SubTotal="72621.19" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="84240.57" TipoDeComprobante="I" Exportacion="01" Certificado="MIIGVzCCBD+gAwIBAgIUMDAwMDEwMDAwMDA0MTE5OTE3NzcwDQYJKoZIhvcNAQEL
+BQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJh
+Y2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3Ry
+YWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBT
+ZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29k
+c0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVy
+cmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0
+cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FU
+OTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3Ry
+YWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRy
+aWJ1eWVudGUwHhcNMTgwOTAyMjM1NTAyWhcNMjIwOTAyMjM1NTAyWjCB9zEzMDEG
+A1UEAxMqQ09NRVJDSUFMSVpBRE9SQSBBTkdFTCBERSBPUklFTlRFIFNBIERFIENW
+MTMwMQYDVQQpEypDT01FUkNJQUxJWkFET1JBIEFOR0VMIERFIE9SSUVOVEUgU0Eg
+REUgQ1YxMzAxBgNVBAoTKkNPTUVSQ0lBTElaQURPUkEgQU5HRUwgREUgT1JJRU5U
+RSBTQSBERSBDVjElMCMGA1UELRMcQ0FPMTYwMTI1SVQ3IC8gQUVDRTg3MDExM0k5
+QTEeMBwGA1UEBRMVIC8gQUVDRTg3MDExM0hNQ05NRDA1MQ8wDQYDVQQLEwZNQVRS
+SVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCNHnzVzepE2K7xyBIV
+Se4KqTnEjtUvtqGKtRVBHUS10+EkHIAPdCDiBIwyujE0rbcBjDgMdz3Dc3nJBZdN
+aE0h3COWGH8SnxMdEV+xzYvUTBx1/VTAbaolVD6SvLLXuMKfHzzZ6bZ0NY07/otH
+MO/jGoeswvCI9j/He0hyG0PGkZ+wEJfk/3p4+z0g7VZuE337e4HYkhFLV4tnxb4Y
+aw5bwjzsTlAEGPsFvF/1MwZNGy4vZz9RnufPHZkoHahuipkGhUeQ21JT3pMgWehM
+vrkmNZCPwwc0RiAe3wtQXW/ljmZL2rY2mZ49cFISaG0ihAijApk2yaAdWE0fpIf0
+YaUVAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3
+DQEBCwUAA4ICAQCJvZb6DBQ94rsaLH1scuLzJgcP1CQ+TxOoOEuVUw59SIacL69U
+MEVfd2hDIH/UzBChQn2XE4Y9d6f2gjYHdC6xI3dU14qDK6NZJj1UbLKBvDPDn3aN
+t6Yg3OuHD/92wEMhEF5CV1Pw+55f5hy43ELlmvbHw35EFLhgoFyLQ8pca90vuxAO
+GZ5hEIAW5eZVbrir9aVh2ZAeCLNWdnRBg4kSEkXNIckEHg5W/ap6JnncDiphXUk+
+Zcowhy+go5zfMkQ+Z91cLRHqg1ekGrD3Tjtzsm0SmfWLy3hnkcTo2t7pkFOkgDHV
+aCGfZaigXFmt+vH+aRCTFrKk0uzDmYBSKliimGM5jNljzbVVgf+LcZfSnYCdTmJA
+loWsM8Dkp5pi91JpctZfKVKbJ3kirMPlbb22givrHSa13G6GG4tKdcQGHm2h4p6O
+Ex7i5ou/24KIUI40fabi3SvV7Gm5icqp5wZRFg0DUdLTUJsbEbfBayW7J68xNO72
+Uo1yVcqOtZvKeHzpW67of5PpAvukp4DdteuqnmDrjvKRbvdFVoxcTyoM2QXhRTuz
+N7doJErOynoC+jxbchNK/OBDhUmOZ92tT079f24PVhYCZHqdiTJB/aOU88eqloGE
+BtDVpem5LKpUMdSUK74pm/ZwGopEEHC5HIp6ZMiAatLUANz0kIL2CmuWow==" NoCertificado="00001000000411991777" MetodoPago="PPD" FormaPago="99" LugarExpedicion="06140" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7" />
+  <cfdi:Receptor Nombre="SERVICIOS DE ADMINISTRACION PARA LABORATORIO CLINICO" Rfc="SAL1802126K4" UsoCFDI="G03" DomicilioFiscalReceptor="06140" RegimenFiscalReceptor="601"/>
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="13.00" ClaveProdServ="44121701" ClaveUnidad="XBX" Descripcion="BOLIGRAFO BIC PUNTO MEDIANO NEGROVenta Por CAJA BOLIGRAFO PUNTO MEDIANO 1.0 MM 12 PIEZA" Importe="474.37" NoIdentificacion="7501014511023BCK" Unidad="cj" ValorUnitario="36.49" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="474.37" Importe="75.90" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="40.00" ClaveProdServ="14111507" ClaveUnidad="XBX" Descripcion="PAPEL FOTOBOND SCRIBE CARTA BLANC 95%" Importe="38872.00" NoIdentificacion="1000000237" Unidad="cj" ValorUnitario="971.80" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="38872.00" Importe="6219.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="20.00" ClaveProdServ="44122002" ClaveUnidad="XBX" Descripcion="PROTECTOR DE HOJAS TAMANO CARTA 360 CAJA CON 100 PROTECTORES KINERA" Importe="2555.40" NoIdentificacion="302.36" Unidad="cj" ValorUnitario="127.77" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="2555.40" Importe="408.86" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="44102904" ClaveUnidad="H87" Descripcion="AIRE COMPRIMIDO 570 ML" Importe="900.30" NoIdentificacion="909X12" Unidad="pz" ValorUnitario="90.03" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="900.30" Importe="144.05" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="50.00" ClaveProdServ="14111514" ClaveUnidad="H87" Descripcion="CUADERNO PROFESIONAL STAR KID CUADRO GRANDE 7 MM 100 HOJAS" Importe="905.00" NoIdentificacion="0460" Unidad="pz" ValorUnitario="18.10" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="905.00" Importe="144.80" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="44121600" ClaveUnidad="XBX" Descripcion="BROCHE BACO 8CM ECONOMICO 1 Caja con 50 broches" Importe="520.80" NoIdentificacion="BB002" Unidad="cj" ValorUnitario="52.08" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="520.80" Importe="83.33" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="44121708" ClaveUnidad="H87" Descripcion="MARCADOR PERMANENTE SHARPIE FINO AZUL CAJA CON 12 PZ" Importe="699.25" NoIdentificacion="1812764" Unidad="pz" ValorUnitario="139.85" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="699.25" Importe="111.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="7.00" ClaveProdServ="52121507" ClaveUnidad="XBX" Descripcion="SHARPIE FINO NEGRO 12 PZAS" Importe="1045.03" NoIdentificacion="2102504" Unidad="cj" ValorUnitario="149.29" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="1045.03" Importe="167.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA KYMA 3 PULG EN D BLANCA 1 PZA PANORAMICA DE VINIL ARRILLO EN D" Importe="280.32" NoIdentificacion="CPKCBHD-300-BCA" Unidad="pz" ValorUnitario="93.44" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="280.32" Importe="44.85" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="CARPETA PANORAMA BCA HERRAJE D 5&amp;ampquot
+COLOR BLANCO, TAMA&amp;Ntilde;O CARTA" Importe="794.79" NoIdentificacion="P3213" Unidad="pz" ValorUnitario="264.93" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="794.79" Importe="127.17" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="20.00" ClaveProdServ="14111704" ClaveUnidad="XBX" Descripcion="TOALLA EN ROLLO BLANCA DE 180  CAJA C/ 6 BOBINAS, MARLI" Importe="6205.20" NoIdentificacion="92257" Unidad="cj" ValorUnitario="310.26" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="6205.20" Importe="992.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="47131800" ClaveUnidad="H87" Descripcion="BLANQUEADOR DE 20 L. MARCA SUPER MOPS" Importe="2590.20" NoIdentificacion="MOPS474" Unidad="pz" ValorUnitario="259.02" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="2590.20" Importe="414.43" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="15.00" ClaveProdServ="60121124" ClaveUnidad="H87" Descripcion="PAPEL KRAF ROLLO 51CM PESO 14KILOGRAMOS" Importe="5001.75" NoIdentificacion="KRAF-R-51" Unidad="pz" ValorUnitario="333.45" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="5001.75" Importe="800.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="47131821" ClaveUnidad="H87" Descripcion="Desengrasante Concentrado 10" Importe="2149.90" NoIdentificacion="125902" Unidad="pz" ValorUnitario="214.99" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="2149.90" Importe="343.98" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="47131800" ClaveUnidad="H87" Descripcion="DETERGENTE EN POLVO ROMA. BOLSA DE 10KG." Importe="3605.80" NoIdentificacion="40450" Unidad="pz" ValorUnitario="360.58" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="3605.80" Importe="576.93" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="53131626" ClaveUnidad="H87" Descripcion="GEL ANTIBACTERIAL 20L, IMPERIAL
+
+70% DE ALCOHOL CON TAPA" Importe="1633.40" NoIdentificacion="746432" Unidad="pz" ValorUnitario="816.70" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="1633.40" Importe="261.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="24.00" ClaveProdServ="11151500" ClaveUnidad="H87" Descripcion="FIBRA VERDE SCOTCH-BRITE, CAJA CON 12" Importe="3572.88" NoIdentificacion="FIB0007M3" Unidad="pz" ValorUnitario="148.87" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="3572.88" Importe="571.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="40.00" ClaveProdServ="46181504" ClaveUnidad="H87" Descripcion="GUANTES DE HULE N grados9 ,ALTEX" Importe="814.80" NoIdentificacion="GUANTE ALTEX 9" Unidad="pz" ValorUnitario="20.37" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="814.80" Importe="130.37" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="11619.38"><cfdi:Traslados>
+						      <cfdi:Traslado Base="72621.19" Importe="11619.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+						    </cfdi:Traslados></cfdi:Impuestos>
+						</cfdi:Comprobante>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="8442" Fecha="2023-07-21T11:18:59" SubTotal="17228.09" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="19984.58" TipoDeComprobante="I" Exportacion="01" Certificado="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" NoCertificado="00001000000514919366" MetodoPago="PPD" FormaPago="99" LugarExpedicion="11320" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7"/>
+
+  <cfdi:Receptor Nombre="ANTONIO SANCHEZ SALGADO" Rfc="SASA911216BYA" UsoCFDI="G03" DomicilioFiscalReceptor="56356" RegimenFiscalReceptor="612"/>
+
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="2.00" ClaveProdServ="43222640" ClaveUnidad="H87" Descripcion="UBIQUITI UAP-AC-LR - Access Point Inalambrico de largo alcance UniFi AC / Doble Banda 802.11ac / Interior / MIMO 2x2 / 24 dBm / Hasta 1317 Mbps / Incluye Inyector PoE" Importe="5060.38" NoIdentificacion="UAP-AC-LR" Unidad="pz" ValorUnitario="2530.19" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="5060.38" Importe="809.66" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="43222609" ClaveUnidad="H87" Descripcion="TP-Link switch no administrable de 16 puertos gigabit 10/100/1000." Importe="2272.72" NoIdentificacion="TL-SG1016" Unidad="pz" ValorUnitario="1136.36" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="2272.72" Importe="363.64" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="43223300" ClaveUnidad="H87" Descripcion="Intellinet PLUG MODULAR RJ45 UTP CAT6 SOLIDO BOTE CON 100 PIEZAS" Importe="585.72" NoIdentificacion="503006" Unidad="pz" ValorUnitario="585.72" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="585.72" Importe="93.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="39121330" ClaveUnidad="H87" Descripcion="Intellinet CAJA DE PARED PARA CABLE DE RED RJ45 UTP CHALUPA BLANCO 4.80CM PROFUNDIDAD" Importe="488.00" NoIdentificacion="517874" Unidad="pz" ValorUnitario="48.80" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="488.00" Importe="78.08" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="43223300" ClaveUnidad="H87" Descripcion="Intellinet TAPA DE PARED FACEPLATE PLACA 1 PUERTO BLANCO" Importe="224.40" NoIdentificacion="163286" Unidad="pz" ValorUnitario="22.44" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="224.40" Importe="35.90" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="43223100" ClaveUnidad="H87" Descripcion="JACK DE IMPACTO UTP CAT6 CALIBE 22 AL 26AWG INTELLINET BLANCO 210591" Importe="432.40" NoIdentificacion="210591" Unidad="pz" ValorUnitario="43.24" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="432.40" Importe="69.18" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="43223300" ClaveUnidad="XPK" Descripcion="Intellinet PLUG MODULAR RJ45 UTP CAT6 MULTIFILAR BOTE CON 100 PIEZAS CONTACTO ORO 15 MICRA" Importe="394.84" NoIdentificacion="502344" Unidad="pq" ValorUnitario="394.84" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="394.84" Importe="63.17" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="26121609" ClaveUnidad="H87" Descripcion="Intellinet BOBINA CABLE UTP DE RED CAT6 100% COBRE ROLLO 305 METROS SOLIDA COLOR GRIS" Importe="3569.63" NoIdentificacion="334136" Unidad="pz" ValorUnitario="3569.63" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="3569.63" Importe="571.14" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="76122405" ClaveUnidad="E48" Descripcion="Servicio de instalacion, puesta a punto,  configuracion y micelaneos" Importe="4200.00" NoIdentificacion="SERVINSTGPS" Unidad="ser" ValorUnitario="4200.00" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="4200.00" Importe="672.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="2756.49"><cfdi:Traslados><cfdi:Traslado Base="17228.09" Importe="2756.49" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/></cfdi:Traslados>
+
+							</cfdi:Impuestos>
+
+						</cfdi:Comprobante>

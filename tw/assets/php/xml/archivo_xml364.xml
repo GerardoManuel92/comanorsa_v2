@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="7318" Fecha="2022-08-15T13:16:52" SubTotal="7118.88" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="8257.91" TipoDeComprobante="I" Exportacion="01" Certificado="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" NoCertificado="00001000000411991777" MetodoPago="PPD" FormaPago="99" LugarExpedicion="06140" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7" />
+  <cfdi:Receptor Nombre="ACEROS ZEUS" Rfc="AZE050625MJ6" UsoCFDI="G01" DomicilioFiscalReceptor="67480" RegimenFiscalReceptor="601"/>
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="2.00" ClaveProdServ="25172608" ClaveUnidad="H87" Descripcion="Pizarron blanco Alfra White Star de 30x40 cm con superficie especial para marcadores de borrado en seco" Importe="327.98" NoIdentificacion="4829" Unidad="pz" ValorUnitario="163.99" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="327.98" Importe="52.48" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA DE 1 PULG. BLANCA HERRAJE EN D OXFORD PANORAMA PARA 240 HOJAS CARTA" Importe="554.20" NoIdentificacion="PP10104" Unidad="pz" ValorUnitario="55.42" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="554.20" Importe="88.67" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="40.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="CARPETA DE 2 PULG. BLANCA HERRAJE EN D OXFORD PANORAMA PARA 540 HOJAS CARTA" Importe="2806.00" NoIdentificacion="PP10204" Unidad="pz" ValorUnitario="70.15" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="2806.00" Importe="448.96" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="15.00" ClaveProdServ="14111530" ClaveUnidad="XPK" Descripcion="SE&amp;Ntilde;ALADORES POST-IT 4 COLORES ULTRA
+SE&amp;Ntilde;ALADORES PAPEL POST-IT 3M 4 COLORES" Importe="543.45" NoIdentificacion="MC900171612" Unidad="pq" ValorUnitario="36.23" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="543.45" Importe="86.95" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44121701" ClaveUnidad="XBX" Descripcion="BOLIGRAFO BIC CRISTAL PUNTO FINO AZUL BARRIL NARANJA 0.8 MM CAJA CON 12" Importe="113.64" NoIdentificacion="7501014511054LINEA" Unidad="cj" ValorUnitario="37.88" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="113.64" Importe="18.18" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="14111530" ClaveUnidad="XPK" Descripcion="NOTAS POST-IT CAPETOWN 3X3 PULG MOD. 2072, 5 BLOCKS CON 75 HJS C/U" Importe="675.10" NoIdentificacion="70005251999" Unidad="pq" ValorUnitario="67.51" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="675.10" Importe="108.02" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="44121615" ClaveUnidad="H87" Descripcion="ENGRAPADORA PEGASO 219 TIRA COMPLETA GRIS 1 PIEZA" Importe="258.22" NoIdentificacion="308.219" Unidad="pz" ValorUnitario="129.11" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="258.22" Importe="41.32" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="43201803" ClaveUnidad="H87" Descripcion="DISCO DURO EXT. ADATA AHD710P 1TB NEGRO" Importe="975.99" NoIdentificacion="AHD710P-1TU31-CBK" Unidad="pz" ValorUnitario="975.99" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="975.99" Importe="156.16" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="15.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA DE 1.5 PULG. BLANCA HERRAJE EN D OXFORD PANORAMA PARA 375 HOJAS CARTA" Importe="864.30" NoIdentificacion="PP11504" Unidad="pz" ValorUnitario="57.62" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="864.30" Importe="138.29" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="1139.03"><cfdi:Traslados><cfdi:Traslado Base="7118.88" Importe="1139.03" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" /></cfdi:Traslados>
+							</cfdi:Impuestos>
+						</cfdi:Comprobante>

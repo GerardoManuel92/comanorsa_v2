@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="8186" Fecha="2023-05-03T10:08:00" SubTotal="17146.39" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="19889.83" TipoDeComprobante="I" Exportacion="01" Certificado="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" NoCertificado="00001000000514919366" MetodoPago="PPD" FormaPago="99" LugarExpedicion="11320" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7"/>
+
+  <cfdi:Receptor Nombre="SULZER CHEMTECH" Rfc="SCE980323QI5" UsoCFDI="G01" DomicilioFiscalReceptor="54730" RegimenFiscalReceptor="601"/>
+
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="4.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="CARTA ESCRIBA PAPEL FOTOBOND BLANCA 95% 75GR. MED 21.59X27.94 CAJA CON 10 RESMAS DE 500 HOJAS C/U." Importe="4019.24" NoIdentificacion="10000005277" Unidad="cj" ValorUnitario="1004.81" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="4019.24" Importe="643.08" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="CARTA ESCRIBA PAPEL FOTOBOND BLANCA 95% 75GR. MED 21.59X27.94 CAJA CON 10 RESMAS DE 500 HOJAS C/U." Importe="4019.24" NoIdentificacion="10000005277" Unidad="cj" ValorUnitario="1004.81" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="4019.24" Importe="643.08" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL FOTOBOND SCRIBE DOBLE CARTA BLANCURA 95% 75GR MEDIDAS: 27.9 X 43.2CM" Importe="3873.60" NoIdentificacion="KC-PAP-FOTODC" Unidad="cj" ValorUnitario="1291.20" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="3873.60" Importe="619.78" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="44121613" ClaveUnidad="H87" Descripcion="DESENGRAPADOR TIRA COMPLETA MAPED 370111" Importe="58.05" NoIdentificacion="370111" Unidad="pz" ValorUnitario="11.61" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="58.05" Importe="9.29" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111500" ClaveUnidad="XPK" Descripcion="PAPEL FACIA NEON CARTA CON 250 HOJAS
+MIX DE 5 COLORES. MEDIDAS: 21.6X27.9 CM" Importe="260.74" NoIdentificacion="A8738075011C0SC" Unidad="pq" ValorUnitario="130.37" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="260.74" Importe="41.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="6.00" ClaveProdServ="44122016" ClaveUnidad="H87" Descripcion="TABLA FIBRACEL CARTA BROCHE METALICO" Importe="342.00" NoIdentificacion="TB002" Unidad="pz" ValorUnitario="57.00" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="342.00" Importe="54.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44121800" ClaveUnidad="XPK" Descripcion="CORRECTOR BIC CINTA  PAQUETE CON 6 PIEZAS" Importe="403.14" NoIdentificacion="70330515765" Unidad="pq" ValorUnitario="134.38" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="403.14" Importe="64.50" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="48.00" ClaveProdServ="44121708" ClaveUnidad="H87" Descripcion="MARCADOR SHARPIE DOBLE PUNTA NEGRO" Importe="813.12" NoIdentificacion="1805635" Unidad="pz" ValorUnitario="16.94" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="813.12" Importe="130.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="48.00" ClaveProdServ="44121700" ClaveUnidad="H87" Descripcion="Marcador SHARPIE DOBLE PUNTA rojo" Importe="813.12" NoIdentificacion="1805636" Unidad="pz" ValorUnitario="16.94" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="813.12" Importe="130.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="45101508" ClaveUnidad="H87" Descripcion="PERFORADORA 3 ORIFICIOS PEGASO 340" Importe="794.97" NoIdentificacion="308.340" Unidad="pz" ValorUnitario="794.97" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="794.97" Importe="127.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="12.00" ClaveProdServ="31201610" ClaveUnidad="H87" Descripcion="LAPIZ ADHESIVO PRITT DE 11 GRS  NO TOXICO 1 PIEZA" Importe="139.92" NoIdentificacion="2321312" Unidad="pz" ValorUnitario="11.66" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="139.92" Importe="22.39" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="44121708" ClaveUnidad="XPK" Descripcion="MARCADOR PARA PIZARRON EXPO BLISTER
+Colores surtidos" Importe="678.35" NoIdentificacion="1929179" Unidad="pq" ValorUnitario="135.67" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="678.35" Importe="108.54" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="44121615" ClaveUnidad="H87" Descripcion="ENGRAPADORA PEGASO 232 TIRA COMPLETA" Importe="189.38" NoIdentificacion="308.232" Unidad="pz" ValorUnitario="94.69" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="189.38" Importe="30.30" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44101808" ClaveUnidad="H87" Descripcion="CALCULADORA CIENTIFICA CANON F-710" Importe="740.52" NoIdentificacion="9208A001AA" Unidad="pz" ValorUnitario="185.13" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="740.52" Importe="118.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="78102200" ClaveUnidad="E48" Descripcion="COMANORSA Servicio de ENVIO GRATIS 1 A 3 DIAS (REVISAR COBERTURA) COMANORSA/PURCHASE ORDER: 4500062626" Importe="1.00" NoIdentificacion="ENVIOTERRESTRE COMANORSA" Unidad="ser" ValorUnitario="1.00" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="1.00" Importe="0.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="2743.44"><cfdi:Traslados><cfdi:Traslado Base="17146.39" Importe="2743.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/></cfdi:Traslados>
+
+							</cfdi:Impuestos>
+
+						</cfdi:Comprobante>

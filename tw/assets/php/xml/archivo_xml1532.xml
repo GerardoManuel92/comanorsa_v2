@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="8490" Fecha="2023-08-02T19:00:07" SubTotal="14502.74" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="16823.19" TipoDeComprobante="I" Exportacion="01" Certificado="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" NoCertificado="00001000000514919366" MetodoPago="PPD" FormaPago="99" LugarExpedicion="11320" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7"/>
+
+  <cfdi:Receptor Nombre="SULZER CHEMTECH" Rfc="SCE980323QI5" UsoCFDI="G01" DomicilioFiscalReceptor="54730" RegimenFiscalReceptor="601"/>
+
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="25.00" ClaveProdServ="14111514" ClaveUnidad="H87" Descripcion="CUADERNO ESPIRAL FORMA FRANCESA CUADRO CHICO 5 MM 100 HOJAS" Importe="529.25" NoIdentificacion="0186" Unidad="pz" ValorUnitario="21.17" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="529.25" Importe="84.68" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111537" ClaveUnidad="H87" Descripcion="ETIQUETA REDONDA REMOVIBLE AZUL TECNOLOGIA LASER/INKJET2" Importe="108.24" NoIdentificacion="2110" Unidad="pz" ValorUnitario="54.12" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="108.24" Importe="17.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="78102200" ClaveUnidad="E48" Descripcion="COMANORSA Servicio de ENVIO GRATIS 1 A 3 DIAS (REVISAR COBERTURA)" Importe="1.18" NoIdentificacion="ENVIOTERRESTRE COMANORSA" Unidad="ser" ValorUnitario="1.18" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="1.18" Importe="0.19" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="11101501" ClaveUnidad="H87" Descripcion="MICA TERMICA GBC MENU TAMA&amp;Ntilde;O DOBLE CARTA 5 MILESIMAS ALTA CALIDAD RIGIDA PAQ C/100" Importe="1256.90" NoIdentificacion="M130248" Unidad="pz" ValorUnitario="1256.90" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="1256.90" Importe="201.10" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111537" ClaveUnidad="H87" Descripcion="Etiqueta redonda removible azul claro" Importe="108.24" NoIdentificacion="AVE-ETI-2103" Unidad="pz" ValorUnitario="54.12" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="108.24" Importe="17.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111537" ClaveUnidad="H87" Descripcion="ETIQUETA REDONDA REMOVIBLE VERDE NEON TECNOLOGIA LASER/INKJET, MEDIDAS 1.9 CM DE DIAMETRO, CON 1,008 ETIQUETAS, AVERY" Importe="108.24" NoIdentificacion="AVE-ETI-2109" Unidad="pz" ValorUnitario="54.12" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="108.24" Importe="17.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111537" ClaveUnidad="XPK" Descripcion="ETIQUETA REDONDA REMOVIBLE AMARILLO, TECNOLOGIA LASER/INKJET, MEDIDAS 1.9 CM DE DIAMETRO, PAQUETE CON 1,008 ETIQUETAS." Importe="108.24" NoIdentificacion="AVE-ETI-2104" Unidad="pq" ValorUnitario="54.12" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="108.24" Importe="17.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111537" ClaveUnidad="XPK" Descripcion="ETIQUETA REDONDA REMOVIBLE ROJO,  MEDIDAS 1.9 CM DE DIAMETRO, CON 1,008 ETIQUETA" Importe="108.24" NoIdentificacion="AVE-ETI-2107" Unidad="pq" ValorUnitario="54.12" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="108.24" Importe="17.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="14111537" ClaveUnidad="H87" Descripcion="ETIQUETA REDONDA REMOVIBLE VERDE TECNOLOGIA LASER/INKJET COLOR VERDE, MEDIDAS 1.9 CM DE DIAMETRO, CON 1,008 ETIQUETAS, AVERY" Importe="108.24" NoIdentificacion="AVE-ETI-2105" Unidad="pz" ValorUnitario="54.12" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="108.24" Importe="17.32" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44111914" ClaveUnidad="H87" Descripcion="TABLA AGARRAPAPEL MACOCEL T/CARTA 1PZ MEDIDAD: LARGO: 22.5 CM Y ALTO: 29.5CM" Importe="75.87" NoIdentificacion="TABAGA-MAC-CTA" Unidad="pz" ValorUnitario="25.29" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="75.87" Importe="12.14" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="14111537" ClaveUnidad="XPK" Descripcion="ETIQUETA BLANCA JANEL CLASICA NO. 25 CON 84 ETIQUETAS DE 50X100MM" Importe="20.93" NoIdentificacion="1005010100" Unidad="pq" ValorUnitario="20.93" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="20.93" Importe="3.35" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="LEFORT REGISTRADOR ESQUELA MARMOLEADO" Importe="140.55" NoIdentificacion="304.0003O" Unidad="pz" ValorUnitario="46.85" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="140.55" Importe="22.49" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="6.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA DE VINIL PANORAMICA ARILLO EN O DE 1.5 PULGADAS COLOR BLANCA KYMA KYMA 1 PIEZA" Importe="350.94" NoIdentificacion="CPKCBHO-150-BCo" Unidad="pz" ValorUnitario="58.49" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="350.94" Importe="56.15" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA KYMA 4 PULG EN D BLANCA PANORAMICA DE VINIL ARRILLO EN D" Importe="283.60" NoIdentificacion="CPKCBHD-400-BCA" Unidad="pz" ValorUnitario="141.80" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="283.60" Importe="45.38" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="CARPETA KYMA 2 PULG EN D BLANCA" Importe="322.32" NoIdentificacion="CPKCBHD-200-BCA" Unidad="pz" ValorUnitario="80.58" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="322.32" Importe="51.57" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103105" ClaveUnidad="H87" Descripcion="CARTUCHO DE TINTA NEGRA HP 664XL" Importe="533.71" NoIdentificacion="F6V31AL" Unidad="pz" ValorUnitario="533.71" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="533.71" Importe="85.39" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103105" ClaveUnidad="H87" Descripcion="CARTUCHO DE TINTA TRICOLOR HP 664XL" Importe="538.79" NoIdentificacion="F6V30AL" Unidad="pz" ValorUnitario="538.79" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="538.79" Importe="86.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL FACIA BOND DOBLE CARTA BLANCO" Importe="3345.00" NoIdentificacion="A8207075041E0MC" Unidad="cj" ValorUnitario="1115.00" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="3345.00" Importe="535.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL ECOBOND CARTA BLANCURA 93 PAPEL DE 75GR. MEDIDAS: 21.6 X 27.9 CM" Importe="3227.13" NoIdentificacion="R0807075405E1QC" Unidad="cj" ValorUnitario="1075.71" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="3227.13" Importe="516.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL ECOBOND CARTA BLANCURA 93 PAPEL DE 75GR. MEDIDAS: 21.6 X 27.9 CM" Importe="3227.13" NoIdentificacion="R0807075405E1QC" Unidad="cj" ValorUnitario="1075.71" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="3227.13" Importe="516.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="2320.45"><cfdi:Traslados><cfdi:Traslado Base="14502.74" Importe="2320.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/></cfdi:Traslados>
+
+							</cfdi:Impuestos>
+
+						</cfdi:Comprobante>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="7156" Fecha="2022-06-29T09:16:22" SubTotal="1533.88" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="1779.30" TipoDeComprobante="I" Exportacion="01" Certificado="MIIGVzCCBD+gAwIBAgIUMDAwMDEwMDAwMDA0MTE5OTE3NzcwDQYJKoZIhvcNAQEL
+BQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJh
+Y2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3Ry
+YWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBT
+ZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29k
+c0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVy
+cmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0
+cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FU
+OTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3Ry
+YWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRy
+aWJ1eWVudGUwHhcNMTgwOTAyMjM1NTAyWhcNMjIwOTAyMjM1NTAyWjCB9zEzMDEG
+A1UEAxMqQ09NRVJDSUFMSVpBRE9SQSBBTkdFTCBERSBPUklFTlRFIFNBIERFIENW
+MTMwMQYDVQQpEypDT01FUkNJQUxJWkFET1JBIEFOR0VMIERFIE9SSUVOVEUgU0Eg
+REUgQ1YxMzAxBgNVBAoTKkNPTUVSQ0lBTElaQURPUkEgQU5HRUwgREUgT1JJRU5U
+RSBTQSBERSBDVjElMCMGA1UELRMcQ0FPMTYwMTI1SVQ3IC8gQUVDRTg3MDExM0k5
+QTEeMBwGA1UEBRMVIC8gQUVDRTg3MDExM0hNQ05NRDA1MQ8wDQYDVQQLEwZNQVRS
+SVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCNHnzVzepE2K7xyBIV
+Se4KqTnEjtUvtqGKtRVBHUS10+EkHIAPdCDiBIwyujE0rbcBjDgMdz3Dc3nJBZdN
+aE0h3COWGH8SnxMdEV+xzYvUTBx1/VTAbaolVD6SvLLXuMKfHzzZ6bZ0NY07/otH
+MO/jGoeswvCI9j/He0hyG0PGkZ+wEJfk/3p4+z0g7VZuE337e4HYkhFLV4tnxb4Y
+aw5bwjzsTlAEGPsFvF/1MwZNGy4vZz9RnufPHZkoHahuipkGhUeQ21JT3pMgWehM
+vrkmNZCPwwc0RiAe3wtQXW/ljmZL2rY2mZ49cFISaG0ihAijApk2yaAdWE0fpIf0
+YaUVAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3
+DQEBCwUAA4ICAQCJvZb6DBQ94rsaLH1scuLzJgcP1CQ+TxOoOEuVUw59SIacL69U
+MEVfd2hDIH/UzBChQn2XE4Y9d6f2gjYHdC6xI3dU14qDK6NZJj1UbLKBvDPDn3aN
+t6Yg3OuHD/92wEMhEF5CV1Pw+55f5hy43ELlmvbHw35EFLhgoFyLQ8pca90vuxAO
+GZ5hEIAW5eZVbrir9aVh2ZAeCLNWdnRBg4kSEkXNIckEHg5W/ap6JnncDiphXUk+
+Zcowhy+go5zfMkQ+Z91cLRHqg1ekGrD3Tjtzsm0SmfWLy3hnkcTo2t7pkFOkgDHV
+aCGfZaigXFmt+vH+aRCTFrKk0uzDmYBSKliimGM5jNljzbVVgf+LcZfSnYCdTmJA
+loWsM8Dkp5pi91JpctZfKVKbJ3kirMPlbb22givrHSa13G6GG4tKdcQGHm2h4p6O
+Ex7i5ou/24KIUI40fabi3SvV7Gm5icqp5wZRFg0DUdLTUJsbEbfBayW7J68xNO72
+Uo1yVcqOtZvKeHzpW67of5PpAvukp4DdteuqnmDrjvKRbvdFVoxcTyoM2QXhRTuz
+N7doJErOynoC+jxbchNK/OBDhUmOZ92tT079f24PVhYCZHqdiTJB/aOU88eqloGE
+BtDVpem5LKpUMdSUK74pm/ZwGopEEHC5HIp6ZMiAatLUANz0kIL2CmuWow==" NoCertificado="00001000000411991777" MetodoPago="PPD" FormaPago="99" LugarExpedicion="06140" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7" />
+  <cfdi:Receptor Nombre="EXXONMOBIL MEXICO" Rfc="EME970101A45" UsoCFDI="G03" DomicilioFiscalReceptor="02300" RegimenFiscalReceptor="601"/>
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1.00" ClaveProdServ="44122011" ClaveUnidad="H87" Descripcion="FOLDER CREMA TAMA&amp;Ntilde;O CARTA MARCA APSA, 1 PAQUETE C/100 PIEZAS" Importe="162.05" NoIdentificacion="L10FC" Unidad="pz" ValorUnitario="162.05" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="162.05" Importe="25.93" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="31201528" ClaveUnidad="H87" Descripcion="CINTA DE MONTAJE RESISTOL PARA 120 KG" Importe="245.49" NoIdentificacion="1429377" Unidad="pz" ValorUnitario="81.83" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="245.49" Importe="39.28" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44121701" ClaveUnidad="XBX" Descripcion="BOLIGRAFO BIC CRISTAL INTENSO NEGROVenta Por CAJA BOLIGRAFO EXTRA GRUESO 1.6 MM 12 PIEZAS INTENSAMENTE SUAVE. PUNTO EXTRA GRUESO 1.6 MM. TRAZOS SUAVES IDEAL PARA QUE LA ESCRITURA RESALTE MAS. BARRIL AHUMADO. ESCRITURA TIPO GEL" Importe="116.94" NoIdentificacion="70330179165" Unidad="cj" ValorUnitario="38.98" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="116.94" Importe="18.71" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="46181500" ClaveUnidad="H87" Descripcion="BANDEROLA VIAL CON REFLEJANTE" Importe="132.00" NoIdentificacion="BAN-NR" Unidad="pz" ValorUnitario="66.00" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="132.00" Importe="21.12" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="26111702" ClaveUnidad="XPK" Descripcion="PILA DURACELL ALCALINA AA BLISTER DE 4" Importe="437.90" NoIdentificacion="MN1500" Unidad="pq" ValorUnitario="87.58" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="437.90" Importe="70.06" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="26111702" ClaveUnidad="XPK" Descripcion="PILA DURACELL ALCALINA AAA TIRA DE 6 PZAS" Importe="439.50" NoIdentificacion="MN2400B1" Unidad="pq" ValorUnitario="87.90" Descuento="0.00" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="439.50" Importe="70.32" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="245.42"><cfdi:Traslados><cfdi:Traslado Base="1533.88" Importe="245.42" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" /></cfdi:Traslados>
+							</cfdi:Impuestos>
+						</cfdi:Comprobante>

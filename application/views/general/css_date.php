@@ -1,1 +1,1 @@
-<link href="<?php echo  base_url(); ?>tw/css/plugins/datepicker/bootstrap-datepicker.css" rel="stylesheet">
+<link href="<?php echo  base_url(); ?>tw/assets/css/plugins/datepicker/bootstrap-datepicker.css" rel="stylesheet">

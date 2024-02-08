@@ -160,6 +160,8 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   var idCiva = 0;
   
   var idPact = 0;
+
+  var iduserx = 1;
   
   ////////////********* variables de recuperacion 
   
@@ -242,7 +244,7 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   }
   
   
-  $(function () {
+  /* $(function () {
   
   
   
@@ -342,7 +344,7 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   
   
   
-  });
+  }); */
   
   
   function verDetalles(){
@@ -632,7 +634,7 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   
       });
   
-  
+  //alert("Prueba");
   
       ////////////////************ TABLA 
   
@@ -904,7 +906,7 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   
   
   
-      $("#bi_pro").focus(1);
+      $("#bi_pro").focus();
   
   
   
@@ -2403,7 +2405,7 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   }
   
   
-  $(function () {
+  /* $(function () {
   
   
   
@@ -2503,7 +2505,7 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown){
   
   
   
-  });
+  }); */
   
   
   function actualizarPartidas(){

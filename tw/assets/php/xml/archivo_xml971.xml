@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="7935" Fecha="2023-02-21T10:23:47" SubTotal="3816.42" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="4427.04" TipoDeComprobante="I" Exportacion="01" Certificado="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" NoCertificado="00001000000514919366" MetodoPago="PPD" FormaPago="99" LugarExpedicion="06140" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7"/>
+  <cfdi:Receptor Nombre="EUROMUNDO" Rfc="EUR911109LA5" UsoCFDI="G03" DomicilioFiscalReceptor="03020" RegimenFiscalReceptor="601"/>
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="2.00" ClaveProdServ="43202217" ClaveUnidad="XPK" Descripcion="BOLSA DE 100 CINCHOS SUJETACABLES (TY-RAP) DE NYLON COLOR NEGRO, DE 0,48 CM DE ANCHO X 28 CM DE LARGO, CON FUERZA DE TENSION DE AMARRE DE 22 KG." Importe="132.96" NoIdentificacion="TY26NE" Unidad="pq" ValorUnitario="66.48" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="132.96" Importe="21.27" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="43202217" ClaveUnidad="H87" Descripcion="BOLSA CON 100 CINCHOS PLASTICOS COLOR NEGRO MEDIDAS 2.5 X 100MM MARCA SANTUL" Importe="18.90" NoIdentificacion="5772" Unidad="pz" ValorUnitario="9.45" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="18.90" Importe="3.02" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="43202217" ClaveUnidad="H87" Descripcion="BOLSA CON 50 CINCHOS PLASTICOS COLOR NEGRO MEDIDAS 4.8 X 500MM MARCA SANTUL" Importe="104.20" NoIdentificacion="5778" Unidad="pz" ValorUnitario="52.10" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="104.20" Importe="16.67" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="CARPETA KYMA 1 PULG EN O BLANCA" Importe="147.81" NoIdentificacion="CPKCBHO-100-BCO" Unidad="pz" ValorUnitario="49.27" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="147.81" Importe="23.65" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA DE VINIL PANORAMICA ARILLO EN O DE 1.5 PULGADAS COLOR BLANCA KYMA KYMA 1 PIEZA" Importe="169.56" NoIdentificacion="CPKCBHO-150-BCo" Unidad="pz" ValorUnitario="56.52" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="169.56" Importe="27.13" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="CARPETA KYMA 2 PULG EN O BLANCA" Importe="189.57" NoIdentificacion="CPKCBHO-200-BCO" Unidad="pz" ValorUnitario="63.19" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="189.57" Importe="30.33" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="25174001" ClaveUnidad="H87" Descripcion="MARCA MYTEK MODELO 3123 COLOR BLANCO
+VENTILADOR 3 EN 1 OSCILACION DE 95 DE 3 VELOCIDADES CON POTENCIA DE 44W, CON TRES ASPAS DIMENCIONES APROXIMADAS DE 500 X 157 X 460 MM 1 AÑO DE GARANTIA" Importe="798.06" NoIdentificacion="3123" Unidad="pz" ValorUnitario="798.06" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="798.06" Importe="127.69" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="32101622" ClaveUnidad="H87" Descripcion="MEMORIA USB C008 64GB, 2.0." Importe="720.00" NoIdentificacion="AC008-64G-RWE" Unidad="pz" ValorUnitario="72.00" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="720.00" Importe="115.20" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="7.00" ClaveProdServ="44121618" ClaveUnidad="H87" Descripcion="TIJERAS SCOTCH 3M 8 PULGADAS 1 PIEZA" Importe="334.11" NoIdentificacion="70007029328" Unidad="pz" ValorUnitario="47.73" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="334.11" Importe="53.46" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="15.00" ClaveProdServ="14111530" ClaveUnidad="H87" Descripcion="BLOCK MEMO TIP AMARILLO 3X3 PULG PZA
+CON 100 HOJAS DE 7.62CM X 7.62CM" Importe="134.25" NoIdentificacion="6560303704" Unidad="pz" ValorUnitario="8.95" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="134.25" Importe="21.48" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="10.00" ClaveProdServ="14111530" ClaveUnidad="XPK" Descripcion="NOTAS POST-IT POP-UP JAIPUR 3X3 PULG
+MOD. R330AUSS, 6 BLOCKS CON 100 HJS C/U" Importe="1067.00" NoIdentificacion="70006847720" Unidad="pq" ValorUnitario="106.70" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="1067.00" Importe="170.72" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="610.62"><cfdi:Traslados><cfdi:Traslado Base="3816.42" Importe="610.62" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/></cfdi:Traslados>
+							</cfdi:Impuestos>
+						</cfdi:Comprobante>

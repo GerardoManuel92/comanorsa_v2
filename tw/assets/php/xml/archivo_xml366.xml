@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="7320" Fecha="2022-08-16T08:54:45" SubTotal="4866.06" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="5644.63" TipoDeComprobante="I" Exportacion="01" Certificado="MIIGVzCCBD+gAwIBAgIUMDAwMDEwMDAwMDA0MTE5OTE3NzcwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTgwOTAyMjM1NTAyWhcNMjIwOTAyMjM1NTAyWjCB9zEzMDEGA1UEAxMqQ09NRVJDSUFMSVpBRE9SQSBBTkdFTCBERSBPUklFTlRFIFNBIERFIENWMTMwMQYDVQQpEypDT01FUkNJQUxJWkFET1JBIEFOR0VMIERFIE9SSUVOVEUgU0EgREUgQ1YxMzAxBgNVBAoTKkNPTUVSQ0lBTElaQURPUkEgQU5HRUwgREUgT1JJRU5URSBTQSBERSBDVjElMCMGA1UELRMcQ0FPMTYwMTI1SVQ3IC8gQUVDRTg3MDExM0k5QTEeMBwGA1UEBRMVIC8gQUVDRTg3MDExM0hNQ05NRDA1MQ8wDQYDVQQLEwZNQVRSSVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCNHnzVzepE2K7xyBIVSe4KqTnEjtUvtqGKtRVBHUS10+EkHIAPdCDiBIwyujE0rbcBjDgMdz3Dc3nJBZdNaE0h3COWGH8SnxMdEV+xzYvUTBx1/VTAbaolVD6SvLLXuMKfHzzZ6bZ0NY07/otHMO/jGoeswvCI9j/He0hyG0PGkZ+wEJfk/3p4+z0g7VZuE337e4HYkhFLV4tnxb4Yaw5bwjzsTlAEGPsFvF/1MwZNGy4vZz9RnufPHZkoHahuipkGhUeQ21JT3pMgWehMvrkmNZCPwwc0RiAe3wtQXW/ljmZL2rY2mZ49cFISaG0ihAijApk2yaAdWE0fpIf0YaUVAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQCJvZb6DBQ94rsaLH1scuLzJgcP1CQ+TxOoOEuVUw59SIacL69UMEVfd2hDIH/UzBChQn2XE4Y9d6f2gjYHdC6xI3dU14qDK6NZJj1UbLKBvDPDn3aNt6Yg3OuHD/92wEMhEF5CV1Pw+55f5hy43ELlmvbHw35EFLhgoFyLQ8pca90vuxAOGZ5hEIAW5eZVbrir9aVh2ZAeCLNWdnRBg4kSEkXNIckEHg5W/ap6JnncDiphXUk+Zcowhy+go5zfMkQ+Z91cLRHqg1ekGrD3Tjtzsm0SmfWLy3hnkcTo2t7pkFOkgDHVaCGfZaigXFmt+vH+aRCTFrKk0uzDmYBSKliimGM5jNljzbVVgf+LcZfSnYCdTmJAloWsM8Dkp5pi91JpctZfKVKbJ3kirMPlbb22givrHSa13G6GG4tKdcQGHm2h4p6OEx7i5ou/24KIUI40fabi3SvV7Gm5icqp5wZRFg0DUdLTUJsbEbfBayW7J68xNO72Uo1yVcqOtZvKeHzpW67of5PpAvukp4DdteuqnmDrjvKRbvdFVoxcTyoM2QXhRTuzN7doJErOynoC+jxbchNK/OBDhUmOZ92tT079f24PVhYCZHqdiTJB/aOU88eqloGEBtDVpem5LKpUMdSUK74pm/ZwGopEEHC5HIp6ZMiAatLUANz0kIL2CmuWow==" NoCertificado="00001000000411991777" MetodoPago="PPD" FormaPago="99" LugarExpedicion="06140" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7" />
+  <cfdi:Receptor Nombre="AGROMAQUILAS" Rfc="AGR001219V91" UsoCFDI="G03" DomicilioFiscalReceptor="54040" RegimenFiscalReceptor="601"/>
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1.00" ClaveProdServ="13111203" ClaveUnidad="H87" Descripcion="MICA AUTOADHERIBLE DE 45 CM X 20 M ROLLO DE PVC, ESPESOR DE 70 MICRONES" Importe="231.09" NoIdentificacion="4520T" Unidad="pz" ValorUnitario="231.09" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="231.09" Importe="36.97" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL XEROX ECOLOGICO CARTA BL 93% 75GRS/M2 MEDIDAS: 21.6X27.9CM 3M02010" Importe="3156.00" NoIdentificacion="003M02010" Unidad="cj" ValorUnitario="1052.00" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="3156.00" Importe="504.96" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="14111500" ClaveUnidad="XPK" Descripcion="PAPEL CORTADO EUROCOLORS CARTA NARANJA ZANAHORIA C/100" Importe="51.87" NoIdentificacion="EC0080" Unidad="pq" ValorUnitario="51.87" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="51.87" Importe="8.30" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="44121615" ClaveUnidad="H87" Descripcion="ENGRAPADORA PEGASO 222 MEDIA TIRA" Importe="127.86" NoIdentificacion="308.222" Unidad="pz" ValorUnitario="63.93" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="127.86" Importe="20.46" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44122002" ClaveUnidad="XBX" Descripcion="PROTECTOR DE HOJAS TAMANO CARTA 360 CAJA CON 100 PROTECTORES KINERA" Importe="130.04" NoIdentificacion="302.36" Unidad="cj" ValorUnitario="130.04" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="130.04" Importe="20.81" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="LEFORT REGISTRADOR CARTA MARMOLEADO" Importe="189.08" NoIdentificacion="304.0001O" Unidad="pz" ValorUnitario="47.27" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="189.08" Importe="30.25" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44121701" ClaveUnidad="XBX" Descripcion="BOLIGRAFO AZUL PUNTO FINO C/12 PIEZAS BOLIGRAFO PIN POINT 0.7 MM PUNTO FINO" Importe="34.16" NoIdentificacion="301.6810AZ" Unidad="cj" ValorUnitario="34.16" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="34.16" Importe="5.47" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44121701" ClaveUnidad="XBX" Descripcion="BOLIGRAFO NEGRO PUNTO FINO C/12 PIEZAS
+
+BOLIGRAFO PIN POINT 0.7 MM PUNTO FINO" Importe="34.14" NoIdentificacion="301.6810NE" Unidad="cj" ValorUnitario="34.14" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="34.14" Importe="5.46" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="8.00" ClaveProdServ="44121706" ClaveUnidad="H87" Descripcion="LAPIZ MIRADO NO 2 HEXAGONAL 1 PIEZA" Importe="28.24" NoIdentificacion="1757875-PZ" Unidad="pz" ValorUnitario="3.53" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="28.24" Importe="4.52" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="6.00" ClaveProdServ="44121716" ClaveUnidad="H87" Descripcion="VISION PLUS 2600 BLISTER 1 PIEZA AZOR. RESALTADOR DE TEXTO EN COLOR FLUORESCENTE, INTENSO Y BRILLANTE QUE NO TRASPASAN EL PAPEL, PUNTA DE CINCEL 6MM PARA VARIOS GROSORES DE TRAZO Y CON GRIP AHULADO. RENDIMIENTO 450 MTS. 240 HORAS SIN TAPA. NO TOXICO." Importe="65.70" NoIdentificacion="301.2610AM" Unidad="pz" ValorUnitario="10.95" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="65.70" Importe="10.51" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="27111500" ClaveUnidad="H87" Descripcion="CUTTER GRANDE 18MM  1 PIEZA" Importe="189.80" NoIdentificacion="307.5512" Unidad="pz" ValorUnitario="47.45" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="189.80" Importe="30.37" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="52121507" ClaveUnidad="XBX" Descripcion="SHARPIE FINO NEGRO 12 PZAS" Importe="146.60" NoIdentificacion="2102504" Unidad="cj" ValorUnitario="146.60" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="146.60" Importe="23.46" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44121700" ClaveUnidad="XPK" Descripcion="MARCADOR PERMANENTE AZOR SIGNAL XTRA 40001 COLOR NEGRO 12 PIEZAS" Importe="161.32" NoIdentificacion="301.40001" Unidad="pq" ValorUnitario="161.32" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="161.32" Importe="25.81" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="14111500" ClaveUnidad="XPK" Descripcion="PAQUETE DE HOJAS BRIGHTS COLOR AZUL, PAQUETE CON 250 HOJAS. DIEM. ESTE PRODUCTO ES SOBRE PEDIDO, EL TIEMPO DE ENTREGA ES DE  2 A 3 DIAS" Importe="168.48" NoIdentificacion="DIEM AZUL" Unidad="pq" ValorUnitario="168.48" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="168.48" Importe="26.96" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="14111500" ClaveUnidad="XPK" Descripcion="PAQUETE DE HOJAS BRIGHTS COLOR VERDE, PAQUETE CON 100 HOJAS DIEM. ESTE PRODUCTO ES SOBRE PEDIDO, EL TIEMPO DE ENTREGA ES DE  2 A 3 DIAS" Importe="75.84" NoIdentificacion="DIEM-VERDE" Unidad="pq" ValorUnitario="75.84" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="75.84" Importe="12.13" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="14111500" ClaveUnidad="XPK" Descripcion="PAQUETE DE HOJAS COLOR LILA, PAQUETE CON 100 HOJAS DIEM.  ESTE PRODUCTO ES SOBRE PEDIDO, EL TIEMPO DE ENTREGA ES DE  2 A 3 DIAS" Importe="75.84" NoIdentificacion="DIEM LILA" Unidad="pq" ValorUnitario="75.84" Descuento="0" ObjetoImp="02">
+		      <cfdi:Impuestos>
+		        <cfdi:Traslados>
+		          <cfdi:Traslado Base="75.84" Importe="12.13" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" />
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="778.57"><cfdi:Traslados><cfdi:Traslado Base="4866.06" Importe="778.57" Impuesto="002" TasaOCuota="0.16" TipoFactor="Tasa" /></cfdi:Traslados>
+							</cfdi:Impuestos>
+						</cfdi:Comprobante>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="8368" Fecha="2023-06-30T09:03:46" SubTotal="15501.36" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="17981.57" TipoDeComprobante="I" Exportacion="01" Certificado="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" NoCertificado="00001000000514919366" MetodoPago="PPD" FormaPago="99" LugarExpedicion="11320" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7"/>
+
+  <cfdi:Receptor Nombre="SULZER CHEMTECH" Rfc="SCE980323QI5" UsoCFDI="G01" DomicilioFiscalReceptor="54730" RegimenFiscalReceptor="601"/>
+
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL BOND SCRIBE DUPLICADOR CARTA BLANCURA 99% 78GR  Medidas: 21.6x27.9 cm. caja con 10 resmas de 500 hojas c/u. maxima funcionalidad en todos los sistemas de impresion offset, copiadora, laser, digital, ink jet, fax, maximo contraste para impresiones, con tecnologia color touch. Cumple: NOM-050-SCFI-2004 y NOM-144" Importe="2478.09" NoIdentificacion="10000005236" Unidad="cj" ValorUnitario="826.03" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="2478.09" Importe="396.49" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="XBX" Descripcion="PAPEL BOND SCRIBE DUPLICADOR CARTA BLANCURA 99% 78GR  Medidas: 21.6x27.9 cm. caja con 10 resmas de 500 hojas c/u. maxima funcionalidad en todos los sistemas de impresion offset, copiadora, laser, digital, ink jet, fax, maximo contraste para impresiones, con tecnologia color touch. Cumple: NOM-050-SCFI-2004 y NOM-144" Importe="2478.09" NoIdentificacion="10000005236" Unidad="cj" ValorUnitario="826.03" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="2478.09" Importe="396.49" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="14111500" ClaveUnidad="H87" Descripcion="PAPEL FOTOBOND SCRIBE DOBLE CARTA BLANCURA 95% 75GR MEDIDAS: 27.4 X43.18CM CAJA CON 5 RESMAS DE 500 HOJAS C/U. OPTIMO DESEMPE&amp;Ntilde;O EN COPIADORAS, LASER, FAX, ESCOLAR Y OFICINA, PAPEL DE USO DIARIO PARA TODAS LAS NECESIDADES DE IMPRESION, OPTIMO PARA IMPRESIONES DE ALTO VOLUMEN." Importe="2851.80" NoIdentificacion="10000000391" Unidad="pz" ValorUnitario="950.60" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="2851.80" Importe="456.29" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="72.00" ClaveProdServ="44121708" ClaveUnidad="H87" Descripcion="MARCADOR SHARPIE DOBLE PUNTA NEGRO" Importe="1134.00" NoIdentificacion="1805635" Unidad="pz" ValorUnitario="15.75" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="1134.00" Importe="181.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="72.00" ClaveProdServ="44121700" ClaveUnidad="H87" Descripcion="Marcador SHARPIE DOBLE PUNTA rojo" Importe="1134.00" NoIdentificacion="1805636" Unidad="pz" ValorUnitario="15.75" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="1134.00" Importe="181.44" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="31162404" ClaveUnidad="XBX" Descripcion="GRAPAS ESTANDAR 26/6 MODELO 400 acero electro-galvanizado, 5040 grapas" Importe="209.90" NoIdentificacion="P0024" Unidad="cj" ValorUnitario="41.98" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="209.90" Importe="33.58" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103103" ClaveUnidad="H87" Descripcion="Cartucho de toner negro HP 201A" Importe="1655.20" NoIdentificacion="CF400A" Unidad="pz" ValorUnitario="1655.20" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="1655.20" Importe="264.83" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103100" ClaveUnidad="H87" Descripcion="CARTUCHO DE TINTA MAGENTA HP 951XL" Importe="694.15" NoIdentificacion="CN047AL" Unidad="pz" ValorUnitario="694.15" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="694.15" Importe="111.06" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103105" ClaveUnidad="H87" Descripcion="CARTUCHO DE TINTA TRICOLOR HP 664XL" Importe="538.79" NoIdentificacion="F6V30AL" Unidad="pz" ValorUnitario="538.79" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="538.79" Importe="86.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103105" ClaveUnidad="H87" Descripcion="CARTUCHO DE TINTA NEGRA HP 664XL" Importe="538.97" NoIdentificacion="F6V31AL" Unidad="pz" ValorUnitario="538.97" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="538.97" Importe="86.24" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44122100" ClaveUnidad="XBX" Descripcion="SUJETADOCUMENTOS CHICO (19MM)" Importe="33.84" NoIdentificacion="P2462" Unidad="cj" ValorUnitario="11.28" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="33.84" Importe="5.41" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122000" ClaveUnidad="H87" Descripcion="CARPETA KYMA 2 PULG EN O BLANCA" Importe="251.00" NoIdentificacion="CPKCBHO-200-BCO" Unidad="pz" ValorUnitario="62.75" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="251.00" Importe="40.16" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="31201517" ClaveUnidad="H87" Descripcion="CINTA EMPAQUE TRANSP SCOTCH 3M 48X150" Importe="124.30" NoIdentificacion="MC500000948" Unidad="pz" ValorUnitario="62.15" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="124.30" Importe="19.89" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44121618" ClaveUnidad="H87" Descripcion="TIJERAS SCOTCH 3M 8 PULGADAS 1 PIEZA" Importe="45.55" NoIdentificacion="70007029328" Unidad="pz" ValorUnitario="45.55" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="45.55" Importe="7.29" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44121600" ClaveUnidad="H87" Descripcion="PORTACLIPS MAGNETICO
+CAPACIDAD HASTA 100 CLIPS ESTANDAR" Importe="26.36" NoIdentificacion="P2000" Unidad="pz" ValorUnitario="26.36" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="26.36" Importe="4.22" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44122011" ClaveUnidad="XBX" Descripcion="FOLDER CANARIO TAMANO CARTA MARCA APSA, 1 PAQUETE C/100 PIEZAS" Importe="180.95" NoIdentificacion="L14FC" Unidad="cj" ValorUnitario="180.95" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="180.95" Importe="28.95" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44122011" ClaveUnidad="XPK" Descripcion="FOLDER VERDE TAMA&amp;Ntilde;O CARTA MARCA APSA, 1 PAQUETE C/100 PIEZAS" Importe="180.94" NoIdentificacion="L12FC" Unidad="pq" ValorUnitario="180.94" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="180.94" Importe="28.95" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44121619" ClaveUnidad="XPK" Descripcion="SACAPUNTAS PLASTICO 2 ORIFICIOS  BOLSA CON 25 PIEZAS" Importe="41.29" NoIdentificacion="SPT25" Unidad="pq" ValorUnitario="41.29" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="41.29" Importe="6.61" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="5.00" ClaveProdServ="44122002" ClaveUnidad="XPK" Descripcion="PROTECTOR DE HOJAS CARDINAL CARTA MEDIO ANTIRREFLEJANTE POLIPROPILENO 100 PZAS" Importe="384.45" NoIdentificacion="64003" Unidad="pq" ValorUnitario="76.89" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="384.45" Importe="61.51" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44102000" ClaveUnidad="XPK" Descripcion="MICA TERMICA GBC TAMANO CARTA 5 MILESIMAS" Importe="519.68" NoIdentificacion="M130250" Unidad="pq" ValorUnitario="519.68" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="519.68" Importe="83.15" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="78102200" ClaveUnidad="E48" Descripcion="COMANORSA Servicio de ENVIO GRATIS 1 A 3 DIAS (APLICA MINIMO DE COMPRA Y COBERTURA)" Importe="0.01" NoIdentificacion="ENVIOGRATIS COMANORSA" Unidad="ser" ValorUnitario="0.01" Descuento="0" ObjetoImp="02">
+
+		      <cfdi:Impuestos>
+
+		        <cfdi:Traslados>
+
+		          <cfdi:Traslado Base="0.01" Importe="0.00" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+
+		        </cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+</cfdi:Conceptos><cfdi:Impuestos TotalImpuestosTrasladados="2480.21"><cfdi:Traslados><cfdi:Traslado Base="15501.36" Importe="2480.21" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/></cfdi:Traslados>
+
+							</cfdi:Impuestos>
+
+						</cfdi:Comprobante>

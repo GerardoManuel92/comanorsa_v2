@@ -122,8 +122,8 @@
                         </div>
                     </li>
 
-                    <button class="btn btn-warning" type="button" style="font-weight: bold;"><i class="ri-check-line"></i></button>
-                    <button class="btn btn-success" type="button" style="font-weight: bold;"><i class="ri-attachment-fill"></i>&nbsp;</button>
+                    <button class="btn btn-warning" type="button" style="font-weight: bold;" id="btn_finalizar" onclick="finalizarCotizacion(0)"><i class="ri-check-line"></i>&nbsp;Finalizar</button>
+                    <button class="btn btn-success" type="button" style="font-weight: bold;"><i class="ri-attachment-line"></i>&nbsp; Adjuntar</button>
 
 
 

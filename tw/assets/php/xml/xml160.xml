@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="BDL" Folio="7122" Fecha="2022-06-15T20:31:17" SubTotal="52174.29" Descuento="847.04" Moneda="MXN" TipoCambio="1" Total="51327.25" TipoDeComprobante="I" Exportacion="01" Certificado="MIIGVzCCBD+gAwIBAgIUMDAwMDEwMDAwMDA0MTE5OTE3NzcwDQYJKoZIhvcNAQEL
+BQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJh
+Y2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3Ry
+YWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBT
+ZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29k
+c0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVy
+cmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0
+cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FU
+OTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3Ry
+YWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRy
+aWJ1eWVudGUwHhcNMTgwOTAyMjM1NTAyWhcNMjIwOTAyMjM1NTAyWjCB9zEzMDEG
+A1UEAxMqQ09NRVJDSUFMSVpBRE9SQSBBTkdFTCBERSBPUklFTlRFIFNBIERFIENW
+MTMwMQYDVQQpEypDT01FUkNJQUxJWkFET1JBIEFOR0VMIERFIE9SSUVOVEUgU0Eg
+REUgQ1YxMzAxBgNVBAoTKkNPTUVSQ0lBTElaQURPUkEgQU5HRUwgREUgT1JJRU5U
+RSBTQSBERSBDVjElMCMGA1UELRMcQ0FPMTYwMTI1SVQ3IC8gQUVDRTg3MDExM0k5
+QTEeMBwGA1UEBRMVIC8gQUVDRTg3MDExM0hNQ05NRDA1MQ8wDQYDVQQLEwZNQVRS
+SVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCNHnzVzepE2K7xyBIV
+Se4KqTnEjtUvtqGKtRVBHUS10+EkHIAPdCDiBIwyujE0rbcBjDgMdz3Dc3nJBZdN
+aE0h3COWGH8SnxMdEV+xzYvUTBx1/VTAbaolVD6SvLLXuMKfHzzZ6bZ0NY07/otH
+MO/jGoeswvCI9j/He0hyG0PGkZ+wEJfk/3p4+z0g7VZuE337e4HYkhFLV4tnxb4Y
+aw5bwjzsTlAEGPsFvF/1MwZNGy4vZz9RnufPHZkoHahuipkGhUeQ21JT3pMgWehM
+vrkmNZCPwwc0RiAe3wtQXW/ljmZL2rY2mZ49cFISaG0ihAijApk2yaAdWE0fpIf0
+YaUVAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3
+DQEBCwUAA4ICAQCJvZb6DBQ94rsaLH1scuLzJgcP1CQ+TxOoOEuVUw59SIacL69U
+MEVfd2hDIH/UzBChQn2XE4Y9d6f2gjYHdC6xI3dU14qDK6NZJj1UbLKBvDPDn3aN
+t6Yg3OuHD/92wEMhEF5CV1Pw+55f5hy43ELlmvbHw35EFLhgoFyLQ8pca90vuxAO
+GZ5hEIAW5eZVbrir9aVh2ZAeCLNWdnRBg4kSEkXNIckEHg5W/ap6JnncDiphXUk+
+Zcowhy+go5zfMkQ+Z91cLRHqg1ekGrD3Tjtzsm0SmfWLy3hnkcTo2t7pkFOkgDHV
+aCGfZaigXFmt+vH+aRCTFrKk0uzDmYBSKliimGM5jNljzbVVgf+LcZfSnYCdTmJA
+loWsM8Dkp5pi91JpctZfKVKbJ3kirMPlbb22givrHSa13G6GG4tKdcQGHm2h4p6O
+Ex7i5ou/24KIUI40fabi3SvV7Gm5icqp5wZRFg0DUdLTUJsbEbfBayW7J68xNO72
+Uo1yVcqOtZvKeHzpW67of5PpAvukp4DdteuqnmDrjvKRbvdFVoxcTyoM2QXhRTuz
+N7doJErOynoC+jxbchNK/OBDhUmOZ92tT079f24PVhYCZHqdiTJB/aOU88eqloGE
+BtDVpem5LKpUMdSUK74pm/ZwGopEEHC5HIp6ZMiAatLUANz0kIL2CmuWow==" NoCertificado="00001000000411991777" MetodoPago="PUE" FormaPago="01" LugarExpedicion="06140" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <cfdi:Emisor Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626" Rfc="CAO160125IT7" />
+  <cfdi:Receptor Nombre="VENTAS PUBLICO GENERAL" Rfc="XAXX010101000" UsoCFDI="S01" DomicilioFiscalReceptor="06140" RegimenFiscalReceptor="616"/>
+  <cfdi:Conceptos>
+<cfdi:Concepto Cantidad="1.00" ClaveProdServ="45101803" ClaveUnidad="H87" Descripcion="PERFORADORA 2 ORIFICIOS PEGASO 800
+1 PIEZA" Importe="611.0508" NoIdentificacion="304.8" Unidad="pz" ValorUnitario="611.0508" Descuento="13.21" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="60121301" ClaveUnidad="H87" Descripcion="GUILLOTINA CLASSICUT CL100 12&amp;ampquot SWIN" Importe="974.3232" NoIdentificacion="MX9312" Unidad="pz" ValorUnitario="974.3232" Descuento="21.07" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="52151606" ClaveUnidad="H87" Descripcion="Tabla para Picar 25 cm x 35 cm x 0,5 cm" Importe="120.8024" NoIdentificacion="00505112683773" Unidad="pz" ValorUnitario="120.8024" Descuento="2.61" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="3.00" ClaveProdServ="44103103" ClaveUnidad="H87" Descripcion="CARTUCHO DE TONER NEGRO HP 87X" Importe="22639.3824" NoIdentificacion="CF287X" Unidad="pz" ValorUnitario="7546.4608" Descuento="489.61" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103103" ClaveUnidad="H87" Descripcion="CARTUCHO DE TONER NEGRO HP 83A" Importe="1660.3044" NoIdentificacion="CF283A" Unidad="pz" ValorUnitario="1660.3044" Descuento="35.91" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="2.00" ClaveProdServ="44103103" ClaveUnidad="H87" Descripcion="TONER KYOCERA TK-1152 RINDE 3,000 PAGINAS KYOCERA /// UNA PIEZA ENTREGA INMEDIATA  SEGUNDA PIEZA ENTREGA EN 2 SEMANAS ///" Importe="3243.708" NoIdentificacion="1T02RV0US0" Unidad="pz" ValorUnitario="1621.854" Descuento="0.00" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="15.00" ClaveProdServ="14111507" ClaveUnidad="XBX" Descripcion="PAPEL FOTOBOND SCRIBE CARTA BLANC 95%" Importe="16250.04" NoIdentificacion="1000000237" Unidad="cj" ValorUnitario="1083.336" Descuento="140.28" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122100" ClaveUnidad="XBX" Descripcion="SUJETADOCUMENTOS CHICO (19MM)" Importe="53.6384" NoIdentificacion="P2462" Unidad="cj" ValorUnitario="13.4096" Descuento="1.16" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122100" ClaveUnidad="XBX" Descripcion="SUJETADOCUMENTOS MEDIANO  (32 MM)" Importe="156.2944" NoIdentificacion="P2463" Unidad="cj" ValorUnitario="39.0736" Descuento="3.38" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122100" ClaveUnidad="XBX" Descripcion="SUJETADOCUMENTOS GRANDE CAJA C/12 PIEZAS" Importe="326.4976" NoIdentificacion="P2464" Unidad="cj" ValorUnitario="81.6244" Descuento="7.06" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="4.00" ClaveProdServ="44122003" ClaveUnidad="H87" Descripcion="CARPETA KYMA 4 PULG EN D BLANCA PANORAMICA DE VINIL ARRILLO EN D" Importe="531.7168" NoIdentificacion="CPKCBHD-400-BCA" Unidad="pz" ValorUnitario="132.9292" Descuento="11.50" ObjetoImp="03"></cfdi:Concepto><cfdi:Concepto Cantidad="15.00" ClaveProdServ="47131800" ClaveUnidad="XPK" Descripcion="PASTILLAS DE CLORO, 12 PZAS DE 35G C/U" Importe="5606.55" NoIdentificacion="NPCCL06" Unidad="pq" ValorUnitario="373.77" Descuento="121.25" ObjetoImp="03"></cfdi:Concepto>
+</cfdi:Conceptos></cfdi:Comprobante>

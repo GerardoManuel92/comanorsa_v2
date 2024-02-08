@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/Pagos20 
+         http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos20.xsd" xmlns:pago20="http://www.sat.gob.mx/Pagos20" Version="4.0" Serie="CP" Folio="439" Fecha="2023-08-27T22:02:44" SubTotal="0" Moneda="XXX" Total="0" TipoDeComprobante="P" Exportacion="01" Certificado="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" NoCertificado="00001000000514919366"  Sello="YlPkbhipLbyhwh6j8q4Qk1FcgKncaCJIXcH11jA5DE8aWvbysU7Bv9e/OJcs5gEuqoPAs8/Qms9/KbqseOUrWmjUaNQX3yxQE55Uraow44wOGxfcdFl/gwmbIs/5vCrAx0/KDI4P3R/omL9Shvk0rkTNaYa2viImvXQk6T89y+AsjWE8GqzAR3oy7WbX5SeiMyD7m8VgMGOsaGKcX4LCV5v7L8wyA9ga8/yK8r/ztDiQi6orj8fHC7/Phn0v6TEjyFptrQPaF9JkS8eB0VgvS3S4Tz9UmLFqnXHJ77486Gibyz8qHdyZwF3mAJN+03EakkRfVKCIUlmXjyUg4iok9A==" LugarExpedicion="11320"  xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+          <cfdi:Emisor Rfc="CAO160125IT7" Nombre="COMERCIALIZADORA ANGEL DE ORIENTE" RegimenFiscal="626"/>
+          <cfdi:Receptor Rfc="MRA070122GN4" Nombre="PROCESOS ESPECIALIZADOS Y PROYECTOS" DomicilioFiscalReceptor="42970" RegimenFiscalReceptor="601" UsoCFDI="CP01"/>
+          <cfdi:Conceptos>
+            <cfdi:Concepto ClaveProdServ="84111506" Cantidad="1" ClaveUnidad="ACT" Descripcion="Pago" ValorUnitario="0" Importe="0" ObjetoImp="01"/>
+          </cfdi:Conceptos><cfdi:Complemento>
+      <pago20:Pagos Version="2.0">
+        <pago20:Totales TotalTrasladosBaseIVA16="4869.22" MontoTotalPagos="5648.3" TotalTrasladosImpuestoIVA16="779.08"/><pago20:Pago FechaPago="2023-08-08T12:00:00" FormaDePagoP="03" MonedaP="MXN" Monto="5648.30" TipoCambioP="1" RfcEmisorCtaOrd="BMN930209927" NomBancoOrdExt="Banco Mercantil del Norte S.A. Institucion de Banca Multiple Grupo Financiero Banorte" CtaOrdenante="072311010809643388" RfcEmisorCtaBen="BBA940707IE1" CtaBeneficiario="030180900007074540"><pago20:DoctoRelacionado IdDocumento="ED47ABFF-270F-4C35-B312-7067BE3C5FC7" Serie="BDL" Folio="8400" MonedaDR="MXN" NumParcialidad="1" ImpSaldoAnt="3466.22" ImpPagado="3466.22" ImpSaldoInsoluto="0.00" ObjetoImpDR="02" EquivalenciaDR="1">
+
+                    <pago20:ImpuestosDR>
+                        <pago20:TrasladosDR>
+                            <pago20:TrasladoDR BaseDR="2988.12" ImpuestoDR="002" TipoFactorDR="Tasa" TasaOCuotaDR="0.160000" ImporteDR="478.1">
+                            </pago20:TrasladoDR>
+                        </pago20:TrasladosDR>
+                    </pago20:ImpuestosDR>
+                </pago20:DoctoRelacionado><pago20:DoctoRelacionado IdDocumento="D71C9AB1-82E8-48F5-991A-F14926B431D2" Serie="BDL" Folio="8397" MonedaDR="MXN" NumParcialidad="1" ImpSaldoAnt="2182.08" ImpPagado="2182.08" ImpSaldoInsoluto="0.00" ObjetoImpDR="02" EquivalenciaDR="1">
+
+                    <pago20:ImpuestosDR>
+                        <pago20:TrasladosDR>
+                            <pago20:TrasladoDR BaseDR="1881.1" ImpuestoDR="002" TipoFactorDR="Tasa" TasaOCuotaDR="0.160000" ImporteDR="300.98">
+                            </pago20:TrasladoDR>
+                        </pago20:TrasladosDR>
+                    </pago20:ImpuestosDR>
+                </pago20:DoctoRelacionado><pago20:ImpuestosP>
+                    <pago20:TrasladosP>
+                        <pago20:TrasladoP BaseP="4869.22" ImpuestoP="002" TipoFactorP="Tasa" TasaOCuotaP="0.160000" ImporteP="779.08">
+                        </pago20:TrasladoP>
+                    </pago20:TrasladosP>
+                </pago20:ImpuestosP>
+                </pago20:Pago></pago20:Pagos>
+        </cfdi:Complemento>
+    </cfdi:Comprobante>

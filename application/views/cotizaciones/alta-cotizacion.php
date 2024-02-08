@@ -32,7 +32,7 @@
                                  <div class="col-lg-8 col-md-12">
                                      <div class="input-group flex-nowrap">
                                          <span class="input-group-text" id="basic-addon1"><i class="ri-user-3-fill"></i></span>
-                                         <select class="form-select select2" id="cliente" data-toggle="select2" placeholder="seleccionar cliente p/cotizacion...">
+                                         <select class="form-select control select2-placeholer" id="cliente" data-toggle="select2" placeholder="seleccionar cliente p/cotizacion...">
 
                                          </select>
                                          <button class="btn btn-success" type="button"><i class="ri-add-fill" style="font-weight: bold;"></i></button>
@@ -52,23 +52,24 @@
                                          <!-- <label class="form-label">Static</label> -->
                                          <div class="input-group flex-nowrap">
                                              <span class="input-group-text" id="basic-addon1">T.C.</span>
-                                             <input type="text" name="bi_pro" id="bi_pro" class="form-control"  placeholder="Buscar por descripcion/clave/tag..." tabindex="4" style="font-size: 12px;" autofocus="true">
+                                             <input type="text" class="form-control" value="1" disabled>
                                          </div>
                                      </div>
                                  </div>
                              </div>
                              <div class="row">
-                                 <div class="col-lg-8 col-md-12 col-xs-12">
+                                 <div class="col-lg-6 col-xs-12">
                                      <div class="mb-3">
-                                         <div class="input-group">
-                                             <input type="text" class="form-control" placeholder="Buscar por descripcion, clave, tag..." aria-label="Recipient's username">
-                                             <button class="btn btn-success" type="button"><i class="ri-add-fill" style="font-weight: bold;"></i></button>
-                                         </div>
+                                        <input type="text" name="bi_pro" id="bi_pro" class="form-control"  placeholder="Buscar por descripcion/clave/tag..." tabindex="4" style="font-size: 14px;" autofocus="true">         
                                      </div>
-                                 </div>
+                                 </div>                                 
                                  <div class="col-lg-2 col-md-6 col-xs-12">
                                      <div class="mb-3">
-                                         <input type="number" class="form-control" placeholder="cantidad...">
+                                        <div class="input-group">
+                                            <input type="number" name="cantidad" class="form-control" id="cantidad" placeholder="cantidad..." style="text-align: right;" tabindex="5" onblur="calcularSubtotal()">
+                                            <span style="font-size: 12px; color:red; font-weight: bold; display: none;" id="txt_cantidad">*Agregue una cantidad valida</span>
+
+                                        </div>
                                      </div>
                                  </div>
                                  <div class="col-lg-2">
@@ -81,7 +82,7 @@
                              <div class="row">
                                  <div class="col-lg-10 col-md-12 col-xs-12">
                                      <div class="mb-3">
-                                         <textarea class="form-control" id="example-textarea" rows="2" placeholder="Descripcion..."></textarea>
+                                         <textarea class="form-control" id="descripcion" name="descripcion" rows="2" placeholder="Descripcion..."></textarea>
                                      </div>
                                  </div>
                              </div>
@@ -89,50 +90,127 @@
                              <div class="row">
                                  <div class="col-lg-2 col-md-6 col-xs-12">
                                      <div class="mb-3">
-                                         <input type="text" class="form-control" value="$0" style="text-align: right;">
+                                        <div class="input-group">
+                                            <input type="text" name="costo" class="form-control" id="costo" placeholder="($)costo..." tabindex="7" style="text-align: right;" onblur="calcularSubtotal()">
+                                            <span style="font-size: 12px; color:red; font-weight: bold; display: none;" id="txt_costo">*Agregue un costo valido</span>
+                                        </div>
                                      </div>
                                  </div>
                                  <div class="col-lg-2">
                                      <div class="mb-3">
                                          <div class="input-group flex-nowrap">
-                                             <span class="input-group-text" id="basic-addon1" style="color: green; font-weight: bold;">%</span>
-                                             <input type="number" class="form-control" placeholder="utilidad..." aria-label="Username" aria-describedby="basic-addon1">
+                                            <span class="input-group-text" id="basic-addon1" style="color: green; font-weight: bold;">%</span>
+                                            <input type="number" name="utilidad" class="form-control" id="utilidad" placeholder="utilidad..." tabindex="8" style="text-align: right;" onblur="calcularSubtotal()">
                                          </div>
                                      </div>
                                  </div>
                                  <div class="col-lg-2 col-md-6 col-xs-12">
                                      <div class="mb-3">
-                                         <input type="text" class="form-control" placeholder="($)precio..." style="text-align: right;">
+                                        <input type="text" name="precio" class="form-control" id="precio" placeholder="($)precio..." style="text-align: right;" tabindex="9" onblur="calcularSubtotalPrecio()">
                                      </div>
                                  </div>
                                  <div class="col-lg-2">
                                      <div class="mb-3">
                                          <div class="input-group flex-nowrap">
-                                             <span class="input-group-text" id="basic-addon1" style="color: red; font-weight: bold;">-%</span>
-                                             <input type="number" class="form-control" placeholder="Desc..." aria-label="Username" aria-describedby="basic-addon1">
+                                            <span class="input-group-text" id="basic-addon1" style="color: red; font-weight: bold;">-%</span>	
+                                            <input type="number" name="descuento" class="form-control" id="descuento" placeholder="Desc..." tabindex="10" style="text-align: right;">
                                          </div>
                                      </div>
                                  </div>
+                                 <div class="col-lg-2" style="display: none;">
+                                    <div class="mb-3">
+                                        <input type="number" name="tasa" class="form-control" id="tasa" placeholder="tasa..." tabindex="-1" style="text-align: right;">
+                                    </div>
+                                 </div>
                                  <div class="col-lg-2 col-md-6 col-xs-12">
                                      <div class="mb-3">
-                                         <input type="number" class="form-control" placeholder="($)subtotal..." style="text-align: right;" disabled>
+                                        <input type="text" name="total" class="form-control" id="total" placeholder="($)subtotal..." style="text-align: right;" tabindex="-1" disabled>
                                      </div>
                                  </div>
                                  <div class="col-lg-2 col-md-6 col-xs-12">
                                      <div class="mb-3">
-                                         <button class="btn btn-primary" type="button"><i class="ri-arrow-right-line" style="font-weight: bold;"></i></button>
-                                         <button class="btn btn-warning" type="button"><i class="ri-eye-fill"></i></button>
+                                         <button class="btn btn-primary" type="button" class="form-control" onclick="ingresarPartidas()" tabindex="11" id="btn_ingresar"><i class="ri-arrow-right-line" style="font-weight: bold;"></i></button>
+                                         <button class="btn btn-warning" type="button"><i class="ri-eye-fill" style="color: black; font-weight: bold;"></i></button>
                                      </div>
                                  </div>
                              </div>
+
+                             <div class="row" id="retenciones" style="display:none; margin-top: 10px;">
+
+						        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">							
+
+							        <label id="tit_iva"></label>
+
+							        <input type="number" id="valor_riva" disabled value="0">
+
+							        <input type="text" name="riva" id="riva" class="form-control" value="0" disabled="" style="text-align: right;">
+
+
+
+						        </div>
+
+
+
+						        <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+
+							
+
+							        <label id="tit_isr"></label>
+
+							        <input type="number" id="valor_risr" disabled value="0">
+
+							        <input type="text" name="risr" id="risr" class="form-control" value="0" disabled="" style="text-align: right;">
+
+
+
+						        </div>
+
+						
+                                <div class="form-group col-md-2 col-sm-12 col-lg-2" style="display: none;"> 
+
+								
+
+									<div id="fechar" class="input-group date">
+
+
+
+										<span class="input-group-addon"><i class="fa fa-calendar"></i></span>  
+
+										<input id="fecha" type="text" class="form-control" > 
+
+										
+
+									</div>
+
+                                    <div class="col-md-12 col-lg-12" >
+
+									
+
+									<textarea id="obs" class="form-control" rows="3" placeholder="Agregar observaciones..." maxlength="300"></textarea>
+
+
+
+							</div>
+
+							</div>
+
+
+					        </div>
+
                          </div>
                          <div class="col-lg-2" style="text-align: center;">
                              <div class="row">
                                  <div class="mb-3">
-                                     <a href="#" style="color: green; font-size: 11px;">(Ver detalles)</a>
-                                     <br><br>
-                                     <p style="color: green;">Subtotal: $0</p>
-                                     <h3 style="color: green; font-weight: bold;">Total: $0</h3>
+                                    <h4 style="font-weight: bold; margin-bottom: 10px;"><a href="javascript:verDetalles()" style="font-size: 11px;">(ver detalles)</a><a href="javascript:cerrarDetalles()" id="cerrar" style="display: none;"><i class="fa fa-close" style="color:red; font-weight: bold;"></i></a></h4>
+
+                                    <p style="color: green; display: ; font-size: 17px;" id="tsubtotal"></p>
+
+                                    <p style="color: red; display: none;" id="tdescuento"></p>
+
+                                    <p style="color: darkblue; display: none;" id="tiva"></p>
+
+                                    <h3 style="color:darkgreen; font-weight: bold;" id="tneto"></h3>
+
                                  </div>
                              </div>
                          </div>
@@ -144,179 +222,39 @@
                              <div class="card">
                                  <div class="card-body">
 
-                                     <table id="scroll-horizontal-datatable" class="table table-striped w-100 nowrap">
-                                         <thead>
-                                             <tr style="background-color: #505050;">
-                                                 <th style="color: white; font-weight: bold;">Acciones</th>
-                                                 <th style="color: white; font-weight: bold;">No.</th>
-                                                 <th style="color: white; font-weight: bold;">Canidad</th>
-                                                 <th style="color: white; font-weight: bold;">Clave</th>
-                                                 <th style="color: white; font-weight: bold;">Descripción</th>
-                                                 <th style="color: white; font-weight: bold;">UM</th>
-                                                 <th style="color: white; font-weight: bold;">Precio</th>
-                                                 <th style="color: white; font-weight: bold;">Iva(%)</th>
-                                                 <th style="color: white; font-weight: bold;">Desc(%)</th>
-                                                 <th style="color: white; font-weight: bold;">UTL(%)</th>
-                                                 <th style="color: white; font-weight: bold;">TC.</th>
-                                                 <th style="color: white; font-weight: bold;">Subtotal</th>
-                                             </tr>
+                                     <table id="my-table" class="table table-striped w-100 nowrap">
+                                         <thead style="background-color: #505050;">
+                                         <tr>
+
+                                            <th style="font-weight: bold; min-width: 30px; text-align: center; color : white;"></th>
+
+                                            <th style="font-weight: bold; min-width: 30px; text-align: center; color : white;">No.</th>
+
+                                            <th style="font-weight: bold; min-width: 40px; text-align: center; color : white;">Cant</th>
+
+                                            <th style="font-weight: bold; min-width: 70px; text-align: center; color : white;">Clave</th>
+
+                                            <th style="font-weight: bold; min-width: 400px; color : white;">Descripcion</th>
+
+                                            <th style="font-weight: bold; min-width: 40px; text-align: center; color : white;">UM</th>
+
+                                            <th style="font-weight: bold; min-width: 70px; text-align: center; color : white;">Precio</th>
+
+                                            <th style="font-weight: bold; min-width: 50px; text-align: center; color : white;">Iva(%)</th>
+
+                                            <th style="font-weight: bold; min-width: 50px; text-align: center; color : white;">Des(%).</th>
+
+                                            <th style="font-weight: bold; min-width: 50px; text-align: center; color : white;">Utl(%).</th>
+
+                                            <th style="font-weight: bold; min-width: 50px; text-align: center; color : white;">Tc.</th>
+
+                                            <th style="font-weight: bold; min-width: 80px; text-align: center; color : white;">Subtotal</th>
+
+
+
+</tr>
                                          </thead>
-                                         <tbody>
-                                             <!-- <tr>
-                                                         <td>Tiger</td>
-                                                         <td>Nixon</td>
-                                                         <td>System Architect</td>
-                                                         <td>Edinburgh</td>
-                                                         <td>61</td>
-                                                         <td>2011/04/25</td>
-                                                         <td>$320,800</td>
-                                                         <td>5421</td>
-                                                         <td>t.nixon@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Garrett</td>
-                                                         <td>Winters</td>
-                                                         <td>Accountant</td>
-                                                         <td>Tokyo</td>
-                                                         <td>63</td>
-                                                         <td>2011/07/25</td>
-                                                         <td>$170,750</td>
-                                                         <td>8422</td>
-                                                         <td>g.winters@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Ashton</td>
-                                                         <td>Cox</td>
-                                                         <td>Junior Technical Author</td>
-                                                         <td>San Francisco</td>
-                                                         <td>66</td>
-                                                         <td>2009/01/12</td>
-                                                         <td>$86,000</td>
-                                                         <td>1562</td>
-                                                         <td>a.cox@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Cedric</td>
-                                                         <td>Kelly</td>
-                                                         <td>Senior Javascript Developer</td>
-                                                         <td>Edinburgh</td>
-                                                         <td>22</td>
-                                                         <td>2012/03/29</td>
-                                                         <td>$433,060</td>
-                                                         <td>6224</td>
-                                                         <td>c.kelly@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Airi</td>
-                                                         <td>Satou</td>
-                                                         <td>Accountant</td>
-                                                         <td>Tokyo</td>
-                                                         <td>33</td>
-                                                         <td>2008/11/28</td>
-                                                         <td>$162,700</td>
-                                                         <td>5407</td>
-                                                         <td>a.satou@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Brielle</td>
-                                                         <td>Williamson</td>
-                                                         <td>Integration Specialist</td>
-                                                         <td>New York</td>
-                                                         <td>61</td>
-                                                         <td>2012/12/02</td>
-                                                         <td>$372,000</td>
-                                                         <td>4804</td>
-                                                         <td>b.williamson@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Herrod</td>
-                                                         <td>Chandler</td>
-                                                         <td>Sales Assistant</td>
-                                                         <td>San Francisco</td>
-                                                         <td>59</td>
-                                                         <td>2012/08/06</td>
-                                                         <td>$137,500</td>
-                                                         <td>9608</td>
-                                                         <td>h.chandler@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Rhona</td>
-                                                         <td>Davidson</td>
-                                                         <td>Integration Specialist</td>
-                                                         <td>Tokyo</td>
-                                                         <td>55</td>
-                                                         <td>2010/10/14</td>
-                                                         <td>$327,900</td>
-                                                         <td>6200</td>
-                                                         <td>r.davidson@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Colleen</td>
-                                                         <td>Hurst</td>
-                                                         <td>Javascript Developer</td>
-                                                         <td>San Francisco</td>
-                                                         <td>39</td>
-                                                         <td>2009/09/15</td>
-                                                         <td>$205,500</td>
-                                                         <td>2360</td>
-                                                         <td>c.hurst@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Sonya</td>
-                                                         <td>Frost</td>
-                                                         <td>Software Engineer</td>
-                                                         <td>Edinburgh</td>
-                                                         <td>23</td>
-                                                         <td>2008/12/13</td>
-                                                         <td>$103,600</td>
-                                                         <td>1667</td>
-                                                         <td>s.frost@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Jena</td>
-                                                         <td>Gaines</td>
-                                                         <td>Office Manager</td>
-                                                         <td>London</td>
-                                                         <td>30</td>
-                                                         <td>2008/12/19</td>
-                                                         <td>$90,560</td>
-                                                         <td>3814</td>
-                                                         <td>j.gaines@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Quinn</td>
-                                                         <td>Flynn</td>
-                                                         <td>Support Lead</td>
-                                                         <td>Edinburgh</td>
-                                                         <td>22</td>
-                                                         <td>2013/03/03</td>
-                                                         <td>$342,000</td>
-                                                         <td>9497</td>
-                                                         <td>q.flynn@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Charde</td>
-                                                         <td>Marshall</td>
-                                                         <td>Regional Director</td>
-                                                         <td>San Francisco</td>
-                                                         <td>36</td>
-                                                         <td>2008/10/16</td>
-                                                         <td>$470,600</td>
-                                                         <td>6741</td>
-                                                         <td>c.marshall@datatables.net</td>
-                                                     </tr>
-                                                     <tr>
-                                                         <td>Haley</td>
-                                                         <td>Kennedy</td>
-                                                         <td>Senior Marketing Designer</td>
-                                                         <td>London</td>
-                                                         <td>43</td>
-                                                         <td>2012/12/18</td>
-                                                         <td>$313,500</td>
-                                                         <td>3597</td>
-                                                         <td>h.kennedy@datatables.net</td>
-                                                     </tr> -->
-                                         </tbody>
+                                         
                                      </table>
 
                                  </div> <!-- end card body-->

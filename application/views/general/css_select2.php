@@ -1,1 +1,1 @@
-<link href="<?php echo base_url(); ?>tw/css/plugins/select2/select2.css" rel="stylesheet">
+<link href="<?php echo base_url(); ?>tw/assets/css/plugins/select2/select2.css" rel="stylesheet">
