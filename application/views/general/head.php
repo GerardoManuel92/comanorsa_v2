@@ -35,11 +35,16 @@
     <!-- Theme Config Js -->
     <script src="<?php echo base_url() ?>tw/assets/js/config.js"></script>
 
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
     <!-- App css -->
     <link href="<?php echo base_url() ?>tw/assets/css/app.min.css" rel="stylesheet" type="text/css" id="app-style" />
 
     <!-- Icons css -->
     <link href="<?php echo base_url() ?>tw/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+
+    
+    <link rel="stylesheet" href="<?php echo base_url() ?>node_modules/sweetalert2/dist/sweetalert2.min.css">
 
 
 </head>

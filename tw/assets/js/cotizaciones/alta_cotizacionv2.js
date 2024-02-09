@@ -1,9 +1,4 @@
 
-
-import swal from 'sweetalert';
-
-
-
 function detectarErrorJquery(jqXHR, textStatus, errorThrown) {
 
 
@@ -14,8 +9,15 @@ function detectarErrorJquery(jqXHR, textStatus, errorThrown) {
 
 
 
-    alert('Not connect: Verify Network.');
-
+    //alert('Not connect: Verify Network.');
+    
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Not connect: Verify Network.",
+      showConfirmButton: false,
+      timer: 2000
+    });
 
 
   } else if (jqXHR.status == 404) {
@@ -200,6 +202,7 @@ var editOrden = 0;
 
 var iduserx = 1;
 
+var total_neto = 0;
 
 
 function sumaTotal() {
@@ -211,6 +214,7 @@ function sumaTotal() {
   total_desc = 0;
 
   total_iva = 0;
+  
 
 
 
@@ -450,7 +454,14 @@ const createdCell = function (cell) {
 
 
 
-              alert("Alerta, favor de intentar actualizarlo nuevamente");
+              //alert("Alerta, favor de intentar actualizarlo nuevamente");
+              Swal.fire({
+                icon: "error",
+                title: "Alerta...",
+                text: "favor de intentar actualizarlo nuevamente",
+                showConfirmButton: false,
+                timer: 1500                
+              });
 
 
 
@@ -540,7 +551,7 @@ $(document).ready(function () {
 
   });
 
-
+  
 
   ////////////////************ TABLA 
 
@@ -884,7 +895,14 @@ function deletePartes() {
 
     verificar = 1;
 
-    alert("Favor de seleccionar por lo menos un producto para su asignación");
+    //alert("Favor de seleccionar por lo menos un producto para su asignación");
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de seleccionar por lo menos un producto para su asignación",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
   } else {
 
@@ -945,9 +963,15 @@ function deletePartes() {
 
 
 
-          alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
+          //alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
 
-
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "Favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador",
+            showConfirmButton: false,
+            timer: 1500
+          });
 
         }
 
@@ -1832,7 +1856,15 @@ function ingresarPartidas() {
 
 
 
-    alert("Alerta, favor de seleccionar un producto valido");
+    //alert("Alerta, favor de seleccionar un producto valido");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de seleccionar un producto valido",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -1848,7 +1880,15 @@ function ingresarPartidas() {
 
 
 
-    alert("Alerta, favor de seleccionar una cantidad valida del producto");
+    //alert("Alerta, favor de seleccionar una cantidad valida del producto");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de seleccionar una cantidad valida del producto",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -1888,7 +1928,15 @@ function ingresarPartidas() {
 
 
 
-    alert("Alerta, favor de colocar un valor valido para el subtotal del producto");
+    //alert("Alerta, favor de colocar un valor valido para el subtotal del producto");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de colocar un valor valido para el subtotal del producto",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -1904,7 +1952,15 @@ function ingresarPartidas() {
 
 
 
-    alert("Alerta, favor de colocar una descripcion valida");
+    //alert("Alerta, favor de colocar una descripcion valida");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de colocar una descripcion valida",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -2062,15 +2118,29 @@ function ingresarPartidas() {
 
 
 
-          alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
-
+          //alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "Favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador",
+            showConfirmButton: false,
+            timer: 1500
+          });
 
 
         } else {
 
 
 
-          alert("Alerta, la partida ya se encuentra en su cotización");
+          //alert("Alerta, la partida ya se encuentra en su cotización");
+
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "La partida ya se encuentra en su cotización",
+            showConfirmButton: false,
+            timer: 1500
+          });
 
 
 
@@ -2247,8 +2317,14 @@ function retirarParte(idpartex, torden) {
 
 
 
-          alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
-
+          //alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "Favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador",
+            showConfirmButton: false,
+            timer: 1500
+          });
 
 
         }
@@ -2435,7 +2511,15 @@ function actualizarPartidas() {
 
 
 
-    alert("Alerta, favor de seleccionar un producto valido");
+    //alert("Alerta, favor de seleccionar un producto valido");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de seleccionar un producto valido",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -2451,7 +2535,15 @@ function actualizarPartidas() {
 
 
 
-    alert("Alerta, favor de seleccionar una cantidad valida del producto");
+    //alert("Alerta, favor de seleccionar una cantidad valida del producto");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de seleccionar una cantidad valida del producto",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -2465,8 +2557,16 @@ function actualizarPartidas() {
 
 
 
-    alert("Alerta, favor de seleccionar un precio valido del producto");
+    //alert("Alerta, favor de seleccionar un precio valido del producto");
 
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de seleccionar un precio valido del producto",
+      showConfirmButton: false,
+      timer: 1500
+    });
+    
     verificar = 1;
 
     $("#precio").focus();
@@ -2489,7 +2589,15 @@ function actualizarPartidas() {
 
 
 
-    alert("Alerta, favor de colocar un valor valido para el subtotal del producto");
+    //alert("Alerta, favor de colocar un valor valido para el subtotal del producto");
+
+    Swal.fire({
+      position: "top-end",
+      icon: "error",
+      title: "Favor de colocar un valor valido para el subtotal del producto",
+      showConfirmButton: false,
+      timer: 1500
+    });
 
     verificar = 1;
 
@@ -2617,8 +2725,14 @@ function actualizarPartidas() {
 
 
 
-          alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
-
+          //alert("Error, favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador");
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "Favor de intentarlo nuevamente de persistir el error favor de comunicarse con el administrador",
+            showConfirmButton: false,
+            timer: 1500
+          });
 
 
         }
@@ -2830,11 +2944,25 @@ function actualizarPartidas() {
 
           if (resultadox) {
 
-            alert("Alerta, la cotización se ha convertido a PEDIDO correctamente y ha sido enviada")
+            //alert("Alerta, la cotización se ha convertido a PEDIDO correctamente y ha sido enviada")
+            Swal.fire({
+              position: "top-end",
+              icon: "error",
+              title: "La cotización se ha convertido a PEDIDO correctamente y ha sido enviada",
+              showConfirmButton: false,
+              timer: 1500
+            });
 
           } else {
 
-            alert("Alerta, la cotización se almaceno correctamente y ha sido enviada");
+            //alert("Alerta, la cotización se almaceno correctamente y ha sido enviada");
+            Swal.fire({
+              position: "top-end",
+              icon: "success",
+              title: "La cotización se almaceno correctamente y ha sido enviada",
+              showConfirmButton: false,
+              timer: 1500
+            });
 
           }
 
@@ -2848,11 +2976,25 @@ function actualizarPartidas() {
 
           if (resultadox) {
 
-            alert("Alerta, la cotización se ha convertido a PEDIDO correctamente y ha sido enviada")
+            //alert("Alerta, la cotización se ha convertido a PEDIDO correctamente y ha sido enviada")
+            Swal.fire({
+              position: "top-end",
+              icon: "success",
+              title: "La cotización se ha convertido a PEDIDO correctamente y ha sido enviada",
+              showConfirmButton: false,
+              timer: 2000
+            });
 
           } else {
 
-            alert("Alerta, la cotización se almaceno correctamente, pero no ha podido ser enviada");
+            //alert("Alerta, la cotización se almaceno correctamente, pero no ha podido ser enviada");
+            Swal.fire({
+              position: "top-end",
+              icon: "error",
+              title: "La cotización se almaceno correctamente, pero no ha podido ser enviadaa",
+              showConfirmButton: false,
+              timer: 2000
+            });
 
           }
 
@@ -2886,190 +3028,99 @@ function actualizarPartidas() {
 
 
 
-    x = confirm("¿Realmente deseas finalizar la cotización actual?");
-
-
-
-    if (x) {
-
-
-
-      subx = 0;
-
-
-
-      $('#my-table').DataTable().rows().data().each(function (el, index) {
-
-        //Asumiendo que es la columna 5 de cada fila la que quieres agregar a la sumatoria
-
-        subx = parseFloat(subx) + parseFloat(el[15]);
-
-
-
-      });
-
-
-
-      verificar = 0;
-
-
-
-      if (subx <= 0) {
-
-
-
-        alert("Alerta, no se han encontrado partidas en tu cotizacion o esta tiene un costo igual a 0");
-
-        verificar = 1;
-
-
-
-      }
-
-
-
-      if ($("#cliente").val() <= 0 && verificar == 0 || $("#cliente").val() == null && verificar == 0) {
-
-
-
-        alert("Alerta, favor de seleccionar un cliente valido");
-
-        verificar = 1;
-
-        $("#cliente").focus();
-
-
-
-      }
-
-      if (pedidox == 1) {
-
-        if ($("#name_factpdf").val() == "" || $("#name_factpdf").val() == null) {
-
-          alert("Alerta, favor de añadir un archivo valido para la evidencia");
-
-          verificar = 1;
-
-        }
-
-      }
-
-
-
-      /*if ( $("#fecha").val() == "" ) {
-  
-  
-  
-        alert("Alerta, favor de agregar una fecha valida para la cotización");
-  
-        verificar = 1;
-  
-        $("#fecha").focus();
-  
-  
-  
-      }*/
-
-
-
-
-
-      if (verificar == 0) {
-
-
-
-        $("#btn_finalizar").prop("disabled", true);
-
-        $("#btn_finalizar").html('Generando...');
-
-
-
-        $.ajax({
-
-          type: "POST",
-
-          dataType: "json",
-
-          url: base_urlx + "AltaCotizacion/finalizarCotizacion/",
-
-          data: {
-
-
-
-            idcliente: $("#cliente").val(),
-
-            fecha: $("#fecha").val(),
-
-            iduser: iduserx,
-
-            
-
-            obsx: $("#obs").val(),
-
-            monedax: $("#moneda").val(),
-
-            tcx: $("#tc").val()
-
-
-
-          },
-
-          cache: false,
-
-          success: function (result) {
-
-
-
-            if (result > 0) {
-
-
-
-              //alert("Alerta, la cotización se almaceno correctamente");
-              swal("Alerta, la cotización se almaceno correctamente");
-
-              showPDF(result, pedidox);
-
-              location.reload();
-
-              
-
-
-
-            } else {
-
-
-
-              alert("Error, favor de intentarlo nuevamente de persistir el error comuniquese con el administrador");
-
-
-
-            }
-
-
-
-          }
-
-
-
-        }).fail(function (jqXHR, textStatus, errorThrown) {
-
-
-
-
-
-          detectarErrorJquery(jqXHR, textStatus, errorThrown);
-
-
-
+    Swal.fire({
+      title: '¿Realmente deseas finalizar la cotización actual?',
+      text: 'Esta acción no se puede revertir',
+      icon: 'warning',
+      showCancelButton: true,
+      confirmButtonColor: '#3085d6',
+      cancelButtonColor: '#d33',
+      confirmButtonText: 'Sí, finalizar',
+      cancelButtonText: 'Cancelar'
+    }).then((result) => {
+      if (result.isConfirmed) {
+        // Aquí colocas todo el código que quieres ejecutar si el usuario confirma
+        subx = 0;
+        $('#my-table').DataTable().rows().data().each(function (el, index) {
+          subx = parseFloat(subx) + parseFloat(el[15]);
         });
-
-
-
+    
+        verificar = 0;
+    
+        if (subx <= 0) {
+          Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'No se han encontrado partidas en tu cotización o esta tiene un costo igual a 0'
+          });
+          verificar = 1;
+        }
+    
+        if ($("#cliente").val() <= 0 && verificar == 0 || $("#cliente").val() == null && verificar == 0) {
+          Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: 'Favor de seleccionar un cliente válido'
+          });
+          verificar = 1;
+          $("#cliente").focus();
+        }
+    
+        if (pedidox == 1) {
+          if ($("#name_factpdf").val() == "" || $("#name_factpdf").val() == null) {
+            Swal.fire({
+              icon: 'error',
+              title: 'Oops...',
+              text: 'Favor de añadir un archivo válido para la evidencia'
+            });
+            verificar = 1;
+          }
+        }
+    
+        if (verificar == 0) {
+          $("#btn_finalizar").prop("disabled", true);
+          $("#btn_finalizar").html('Generando...');
+    
+          $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: base_urlx + "AltaCotizacion/finalizarCotizacion/",
+            data: {
+              idcliente: $("#cliente").val(),
+              fecha: $("#fecha").val(),
+              iduser: iduserx,
+              obsx: $("#obs").val(),
+              monedax: $("#moneda").val(),
+              tcx: $("#tc").val()
+            },
+            cache: false,
+            success: function (result) {
+              if (result > 0) {
+                Swal.fire({
+                  position: "top-end",
+                  icon: "success",
+                  title: "La cotización se ha finalizado correctamente",
+                  showConfirmButton: false,
+                  timer: 2000
+                }).then(() => {
+                  location.reload(); // Recargar la página
+                });
+                showPDF(result, pedidox);
+              } else {
+                Swal.fire({
+                  icon: 'error',
+                  title: 'Oops...',
+                  text: 'Error, favor de intentarlo nuevamente o comuníquese con el administrador'
+                });
+              }
+            }
+          }).fail(function (jqXHR, textStatus, errorThrown) {
+            detectarErrorJquery(jqXHR, textStatus, errorThrown);
+          });
+        }
       }
-
-
-
-    }
+    });
+    
 
 
 
@@ -3135,7 +3186,14 @@ function actualizarPartidas() {
 
           }, 1000);
 
-          alert("Los porcentajes han sido actualizados correctamente");
+          //alert("Los porcentajes han sido actualizados correctamente");
+          Swal.fire({
+            position: "top-end",
+            icon: "success",
+            title: "Los porcentajes han sido actualizados correctamente",
+            showConfirmButton: false,
+            timer: 2000
+          });
 
 
 
@@ -3143,8 +3201,15 @@ function actualizarPartidas() {
 
 
 
-          alert("Error, favor de intentarlo nuevamente de persistir el error comuniquese con el administrador");
-
+          //alert("Error, favor de intentarlo nuevamente de persistir el error comuniquese con el administrador");
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "Favor de intentarlo nuevamente de persistir el error comuniquese con el administrador",
+            showConfirmButton: false,
+            timer: 2000
+          });
+          
 
 
         }
@@ -3241,17 +3306,29 @@ function actualizarPartidas() {
 
           }, 1000);
 
-          alert("Los porcentajes han sido actualizados correctamente");
+          //alert("Los porcentajes han sido actualizados correctamente");
 
-
+          Swal.fire({
+            position: "top-end",
+            icon: "success",
+            title: "Los porcentajes han sido actualizados correctamente",
+            showConfirmButton: false,
+            timer: 2000
+          });
 
         } else {
 
 
 
-          alert("Error, favor de intentarlo nuevamente de persistir el error comuniquese con el administrador");
+          //alert("Error, favor de intentarlo nuevamente de persistir el error comuniquese con el administrador");
 
-
+          Swal.fire({
+            position: "top-end",
+            icon: "error",
+            title: "Favor de intentarlo nuevamente de persistir el error comuniquese con el administrador",
+            showConfirmButton: false,
+            timer: 2000
+          });
 
         }
 
