@@ -1998,7 +1998,7 @@ function ingresarPartidas() {
 
     $("#btn_ingresar").prop("disabled", true);
 
-    $("#btn_ingresar").html('<i class="fa fa-spinner fa-spin"></i>');
+    $("#btn_ingresar").html('<i class="ri-loader-line"></i>');
 
 
 
@@ -2190,7 +2190,7 @@ function ingresarPartidas() {
 
         $("#btn_ingresar").prop("disabled", false);
 
-        $("#btn_ingresar").html('<i class="fa fa-arrow-right"></i>');
+        $("#btn_ingresar").html('<i class="ri-arrow-right-line"></i>');
 
 
 
@@ -3029,8 +3029,8 @@ function actualizarPartidas() {
 
 
     Swal.fire({
-      title: '¿Realmente deseas finalizar la cotización actual?',
-      text: 'Esta acción no se puede revertir',
+      title: '¿Estás seguro?',
+      text: '¿Realmente deseas finalizar la cotización actual?',
       icon: 'warning',
       showCancelButton: true,
       confirmButtonColor: '#3085d6',

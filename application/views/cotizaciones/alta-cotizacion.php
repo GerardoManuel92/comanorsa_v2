@@ -35,7 +35,7 @@
                                          <select class="form-select control select2-placeholer" id="cliente" data-toggle="select2" placeholder="seleccionar cliente p/cotizacion...">
 
                                          </select>
-                                         <button class="btn btn-success" type="button"><i class="ri-add-fill" style="font-weight: bold;"></i></button>
+                                         <button class="btn btn-success" type="button" onclick="window.open('<?php echo base_url() ?>AltaCliente/altaCliente/0','_blank')" tabindex="-1"><i class="ri-add-fill" style="font-weight: bold;"></i></button>
                                      </div>
                                  </div>
                                  <div class="col-lg-2 col-md-6">

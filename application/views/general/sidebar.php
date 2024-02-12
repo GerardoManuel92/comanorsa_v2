@@ -649,6 +649,21 @@
                     </ul>
                 </div>
             </li>
+            <li class="side-nav-item">
+                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                    <i class="ri-user-2-fill"></i>
+                    <span> Alta usuarios </span>
+                    <span class="menu-arrow"></span>
+                </a>
+                <div class="collapse" id="sidebarEmail">
+                    <ul class="side-nav-second-level">
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Alta usuario y/o departamento</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </li>
 
         </ul>
         <!--- End Sidemenu -->
