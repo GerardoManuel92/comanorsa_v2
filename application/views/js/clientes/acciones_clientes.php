@@ -47,6 +47,8 @@
        <!-- Script para alta de cotizaciones -->
        <script src="<?php echo base_url();?>tw/assets/js/clientes/alta_clientes.js?v=<?php echo time();?>"></script>
 
+       <script src="<?php echo base_url()?>tw/assets/js/visualizarSitemap.js"></script>
+
        
        </body>
 

@@ -626,7 +626,7 @@ function altaDepartamento(idsubmenu) {
 
 			data: {
 				departamentox: $("#txtdepartamento").val(),
-				submenux: idsubmenu,
+				idUser : $("#iduser").text(),
 			},
 
 			cache: false,
@@ -648,7 +648,7 @@ function altaDepartamento(idsubmenu) {
 						position: "top-end",
 						icon: "error",
 						title: "Error",
-						text: "el departamento ya se encuentra registrado",
+						text: "El departamento ya se encuentra registrado",
 						showConfirmButton: false,
 						timer: 1500,
 					});

@@ -1,9 +1,15 @@
+<style>
+    .modal-content {
+        width: 700px;
+        margin-left: -20%;
+    }
+</style>
 <div id="modalDepartamentos" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="success-header-modalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header modal-colored-header bg-success">
 
-                <h4 class="modal-title" id="titulo_modal" style="color : white; font-weight: bold;">Crear nuevo departamento<!--  <p id="iduser" hidden><?php echo $iduser; ?> --></p>
+                <h4 class="modal-title" id="titulo_modal" style="color : white; font-weight: bold;">Crear nuevo departamento <p id="iduser" hidden>1</p>
                 </h4>
 
                 <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close">
@@ -30,23 +36,21 @@
                     <div class="col-md-4 col-lg-4">
 
                         <label for="">Menu</label>
-                        <select class="form-control" name="menu_modal" id="menu_modal" onchange="mostrarSubmenus();">
+                        <select class="form-select" name="menu_modal" id="menu_modal" onchange="mostrarSubmenus();">
 
                         </select>
 
                     </div>
 
-                    <div class="col-md-3 col-lg-3">
+                    <div class="col-md-4 col-lg-4">
                         <label for="">Submenu</label>
-                        <div class="input-group">
+                        <div class="input-group flex-nowrap">
 
-                            <select class="custom-select form-control" id="submenu_modal" style="width: 250px;">
+                            <select class="form-select" id="submenu_modal" style="width: 350px;">
 
                             </select>
+                            <button class="btn btn-info" type="button"><i class="ri-add-fill" style="font-weight: bold;"></i></button>
 
-                            <div class="input-group-append">
-                                <button class="btn btn-info" type="button"><i class="fa fa-plus" aria-hidden="true"></i></button>
-                            </div>
                         </div>
 
                     </div>

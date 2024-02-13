@@ -428,19 +428,34 @@ class AltaUsuarios extends CI_Controller
             // Alta de departamento
             $last_id = $this->General_Model->altaERP($data, $table);
 
-            if ($last_id > 0) {
-                $registros = $this->input->post('submenux');  // Obtener el array de registros
+            if ($last_id > 0) {               
 
+                $sqlDepartamentos = "SELECT * FROM temporal_submenus WHERE idusuario =".$data_post['idUser'];
+                $deptos = $this->General_Model->infoxQuery($sqlDepartamentos);
 
-                $table2 = "menus_departamento";
-                $data2 = array(
-                    'iddepa' => $last_id,
-                    'idsubmenu' => $registros,
-                    'estatus' => 0
-                );
+                foreach ($deptos as $row) {
 
-                // Alta de relación departamento-submenu
-                echo json_encode($this->General_Model->altaERP($data2, $table2));
+                    $table2 = "menus_departamento";
+                    $data2 = array(
+                        'iddepa' => $last_id,
+                        'idsubmenu' => $row->idsubmenu,
+                        'estatus' => 0
+                    );
+
+                    // Alta de relación departamento-submenu
+                    $this->General_Model->altaERP($data2, $table2);
+
+                }
+
+                //////borrar temporal submenus usuario
+
+                $dtabla = "temporal_submenus";
+                $dcondicion = array('idusuario' => $data_post['idUser']);
+
+                $this->General_Model->deleteERP($dtabla, $dcondicion);
+                
+                echo json_encode (TRUE);
+                
             } else {
                 echo json_encode(0); // Error al dar de alta el departamento
             }

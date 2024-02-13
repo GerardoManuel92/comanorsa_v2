@@ -67,12 +67,12 @@
                                     <div class="mb-3">
                                         <label>Departamento</label>
                                         <div class="input-group flex-nowrap">
-                                            <select class="custom-select form-control" id="departamento" style="width: 250px;" tabindex="6">
+                                            <select class="form-select" id="departamento" style="width: 250px;" tabindex="6">
 
                                             </select>
                                             <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#modalDepartamentos"><i class="ri-add-fill" style="font-weight: bold;"></i></button>
                                             <!-- <button class="btn btn-success" type="button" data-toggle="modal" data-target="#modalDepartamentos" tabindex="-1"><i class="ri-add-fill" style="font-weight: bold;"></i></button> -->
-                                            <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#modalSubmenus" onclick="showDepa();" id="editDepa" tabindex="-1"><i class="ri-pencil-fill" style="font-weight: bold;"></i></button>
+                                            <button class="btn btn-warning" type="button" data-bs-toggle="modal" data-bs-target="#modalSubmenus" onclick="showDepa();" id="editDepa" tabindex="-1"><i class="ri-pencil-fill" style="font-weight: bold;"></i></button>
 
                                         </div>
                                     </div>

@@ -12,7 +12,9 @@
     <meta content="Coderthemes" name="author" />    
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="<?php echo base_url() ?>tw/assets/images/favicon.ico">
+    <link rel="shortcut icon" href="<?php echo base_url()?>tw/assets/images/favicon.ico">
+
+    <link rel="stylesheet" href="<?php echo base_url() ?>tw/css/map.css">
 
     
     <!-- Datatables css -->
@@ -46,5 +48,6 @@
     
     <link rel="stylesheet" href="<?php echo base_url() ?>node_modules/sweetalert2/dist/sweetalert2.min.css">
 
+    
 
 </head>

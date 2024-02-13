@@ -52,7 +52,7 @@
         <!--- Sidemenu -->
         <ul class="side-nav">
 
-            <li class="side-nav-title mt-1"> Main</li>
+            <!-- <li class="side-nav-title mt-1"> Main</li>
 
             <li class="side-nav-item">
                 <a href="<?php echo base_url(); ?>" class="side-nav-link">
@@ -631,7 +631,7 @@
                         </li>
                     </ul>
                 </div>
-            </li>
+            </li> -->
             <li class="side-nav-item">
                 <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
                     <i class="ri-draft-fill"></i>
