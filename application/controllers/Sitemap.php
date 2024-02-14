@@ -165,13 +165,7 @@ class Sitemap extends CI_Controller {
 	{
 		$this->load->view('general/head');
         $this->load->view('general/topbar');
-        $this->load->view('general/sidebar');
-        $this->load->view('general/css_autocompletar');
-        $this->load->view('general/css_xedit');
-        $this->load->view('general/css_date');
-        $this->load->view('general/css_datatable');
-        $this->load->view('general/css_select2');
-        $this->load->view('general/css_upload');
+        $this->load->view('general/sidebar');        
         $this->load->view('sitemap/body_sitemap');
         $this->load->view('general/footer');
         $this->load->view('general/settings');

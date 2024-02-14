@@ -664,6 +664,66 @@
                     </ul>
                 </div>
             </li>
+            <li class="side-nav-item">
+                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                    <i class="ri-user-2-fill"></i>
+                    <span> Compras </span>
+                    <span class="menu-arrow"></span>
+                </a>
+                <div class="collapse" id="sidebarEmail">
+                    <ul class="side-nav-second-level">
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Orden de compra</a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Reporte ODC</a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Asignar proveedor</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="side-nav-item">
+                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                    <i class="ri-user-2-fill"></i>
+                    <span> Proveedores </span>
+                    <span class="menu-arrow"></span>
+                </a>
+                <div class="collapse" id="sidebarEmail">
+                    <ul class="side-nav-second-level">
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Alta de proveedores</a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Reporte de proveedores</a>
+                        </li>                        
+                    </ul>
+                </div>
+            </li>
+            <li class="side-nav-item">
+                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                    <i class="ri-user-2-fill"></i>
+                    <span> Catalogos </span>
+                    <span class="menu-arrow"></span>
+                </a>
+                <div class="collapse" id="sidebarEmail">
+                    <ul class="side-nav-second-level">
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Alta de productos</a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Reporte de productos</a>
+                        </li>  
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Alta de marcas</a>
+                        </li>  
+                        <li>
+                            <a href="<?php echo base_url() ?>AltaUsuarios">Alta de categorias</a>
+                        </li>                    
+                    </ul>
+                </div>
+            </li>
 
         </ul>
         <!--- End Sidemenu -->
