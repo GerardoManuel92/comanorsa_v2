@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <script src="<?php echo base_url(); ?>tw/assets/js/generarSitemap.js?v=<?php echo time();?>"></script>
+    <!-- <script src="<?php echo base_url(); ?>tw/assets/js/generarSitemap.js?v=<?php echo time();?>"></script> -->
     
     <script type="text/javascript">
         var base_urlx = "<?php echo base_url()?>";

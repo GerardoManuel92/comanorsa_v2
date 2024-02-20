@@ -62,7 +62,7 @@
                     </li> -->
 
 
-                    <a href="<?php echo base_url(); ?>Sitemap" target="_blank" style="margin-top: 10px;">Ver mapa de sitio</a>
+                   <!--  <a href="<?php echo base_url(); ?>Sitemap" target="_blank" style="margin-top: 10px;">Ver mapa de sitio</a> -->
 
 
 

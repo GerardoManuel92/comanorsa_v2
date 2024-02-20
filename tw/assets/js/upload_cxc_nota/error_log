@@ -1,0 +1,4 @@
+[07-May-2023 18:29:03 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/ec15sesjwhka/erp/tw/js/upload_cxc_nota/UploadHandler.php on line 461
+[07-May-2023 18:29:03 America/Mexico_City] PHP Notice:  A non well formed numeric value encountered in /home/ec15sesjwhka/erp/tw/js/upload_cxc_nota/UploadHandler.php on line 348
+[24-May-2023 14:38:48 America/Mexico_City] PHP Notice:  Trying to access array offset on value of type null in /home/ec15sesjwhka/erp/tw/js/upload_cxc_nota/UploadHandler.php on line 461
+[24-May-2023 14:38:48 America/Mexico_City] PHP Notice:  A non well formed numeric value encountered in /home/ec15sesjwhka/erp/tw/js/upload_cxc_nota/UploadHandler.php on line 348

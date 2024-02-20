@@ -222,7 +222,7 @@
                              <div class="card">
                                  <div class="card-body">
 
-                                     <table id="my-table" class="table table-striped w-100 nowrap">
+                                     <table id="my-table" class="table table-striped dt-responsive nowrap w-100">
                                          <thead style="background-color: #505050;">
                                          <tr>
 

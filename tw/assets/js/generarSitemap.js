@@ -85,11 +85,12 @@ function createMenuDiv(menu) {
 
         var span = document.createElement("span");
         span.classList.add("text-inverse", "op-8");
-        span.textContent = submenu.url;
+        /* span.textContent = submenu.url; */
 
         var a = document.createElement("a");
         a.href = submenu.url;
         a.textContent = submenu.submenu;
+        a.target = "_blank";
 
         p.appendChild(span);
         p.appendChild(document.createTextNode(" - "));

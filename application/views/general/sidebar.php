@@ -633,12 +633,38 @@
                 </div>
             </li> -->
             <li class="side-nav-item">
-                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                <a data-bs-toggle="collapse" href="#sidebarProductos" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                    <i class="ri-article-fill"></i>
+                    <span> Catálogos </span>
+                    <span class="menu-arrow"></span>
+                </a>
+                <div class="collapse" id="sidebarProductos">
+                    <ul class="side-nav-second-level">
+                        <li>
+                            <a href="<?php echo base_url() ?>Rproducto">Productos</a>
+                        </li>
+                        <li>
+                            <a href="<?php echo base_url() ?>Rclientes">Clientes</a>
+                        </li>
+                        <li>
+                            <a href="#">Proveedores</a>
+                        </li>
+                        <li>
+                            <a href="#">Bancos</a>
+                        </li>
+                        <li>
+                            <a href="#">Cuentas</a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="side-nav-item">
+                <a data-bs-toggle="collapse" href="#sidebarCotizaciones" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
                     <i class="ri-draft-fill"></i>
                     <span> Cotizaciones </span>
                     <span class="menu-arrow"></span>
                 </a>
-                <div class="collapse" id="sidebarEmail">
+                <div class="collapse" id="sidebarCotizaciones">
                     <ul class="side-nav-second-level">
                         <li>
                             <a href="<?php echo base_url() ?>Altacotizacion">Alta cotización</a>
@@ -650,12 +676,12 @@
                 </div>
             </li>
             <li class="side-nav-item">
-                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
+                <a data-bs-toggle="collapse" href="#sidebarUsuarios" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
                     <i class="ri-user-2-fill"></i>
                     <span> Alta usuarios </span>
                     <span class="menu-arrow"></span>
                 </a>
-                <div class="collapse" id="sidebarEmail">
+                <div class="collapse" id="sidebarUsuarios">
                     <ul class="side-nav-second-level">
                         <li>
                             <a href="<?php echo base_url() ?>AltaUsuarios">Alta usuario y/o departamento</a>
@@ -664,27 +690,8 @@
                     </ul>
                 </div>
             </li>
-            <li class="side-nav-item">
-                <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
-                    <i class="ri-user-2-fill"></i>
-                    <span> Compras </span>
-                    <span class="menu-arrow"></span>
-                </a>
-                <div class="collapse" id="sidebarEmail">
-                    <ul class="side-nav-second-level">
-                        <li>
-                            <a href="<?php echo base_url() ?>AltaUsuarios">Orden de compra</a>
-                        </li>
-                        <li>
-                            <a href="<?php echo base_url() ?>AltaUsuarios">Reporte ODC</a>
-                        </li>
-                        <li>
-                            <a href="<?php echo base_url() ?>AltaUsuarios">Asignar proveedor</a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-            <li class="side-nav-item">
+            
+            <!-- <li class="side-nav-item">
                 <a data-bs-toggle="collapse" href="#sidebarEmail" aria-expanded="false" aria-controls="sidebarEmail" class="side-nav-link">
                     <i class="ri-user-2-fill"></i>
                     <span> Proveedores </span>
@@ -724,7 +731,7 @@
                     </ul>
                 </div>
             </li>
-
+ -->
         </ul>
         <!--- End Sidemenu -->
 

@@ -1,0 +1,46 @@
+http://192.168.2.2:90/disenatres
+soporte@designa3.com
+12345
+/////////////////////
+http://www.siicic.com/icic/
+B1546
+1546
+////////////////////////
+www.siicic.com/cpanel
+Usuario: siicic
+Clave: u9fzfg3cWGIA
+/////////////////
+UPDATE `icic`.`icic_menu` SET `nombre` = 'EVALUACION EVSC-2' WHERE `icic_menu`.`id` =95 LIMIT 1 ;
+////////////////////////
+http://www.siicic.com/icic/administrador.html
+madmar
+fcuntio1
+////////////****************//////////////////
+para permitir imprimir las credenciales de pemex:
+buscar id en catalogo participantes con el nombre o rfc
+buscar en:
+SELECT id FROM `icic_entrega_credencial` where matricula='$id' and credencial='PEMEX'
+y borrar la fila
+///////////******************///////////////
+http://localhost/prosisa/cuentasxpagar.html
+
+
+
+
+duraline
+
+//////////////////
+1. Ve a Inicio -> Ejecutar y teclea cmd
+2. Te aparecerá la típica ventana de comandos estilo MS-Dos. Entonces teclea ipconfig /all 
+////////////////////
+
+
+cco510101
+
+
+260104
+
+
+
+
+
